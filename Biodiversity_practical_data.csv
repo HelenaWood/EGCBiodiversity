@@ -1,0 +1,952 @@
+plot,type,tree,dbh,family,genus,species
+A,L,A1,32.4,DIPTEROCARPACEAE,Shorea,Shorea_angustifolia
+A,L,A2,35,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+A,L,A3,32.5,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+A,L,A4,42.9,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A5,33.5,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A6,45,FAGACEAE,Lithocarpus,Lithocarpus_gracilis
+A,L,A7,33.6,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A8,35.3,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A9,55,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+A,L,A10,40,DILLENIACEAE,Dillenia,Dillenia_excelsa
+A,L,A11,40,SAPOTACEAE,Madhuca,Madhuca_kingiana
+A,L,A12,35,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A13,30,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+A,L,A14,45,FAGACEAE,Lithocarpus,Lithocarpus_sp.4
+A,L,A15,38.4,DIPTEROCARPACEAE,Vatica,Vatica_dulitensis
+A,L,A16,32.4,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+A,L,A17,32.3,DIPTEROCARPACEAE,Vatica,Vatica_dulitensis
+A,L,A18,84.7,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+A,L,A19,40,DIPTEROCARPACEAE,Vatica,Vatica_dulitensis
+A,L,A20,37.5,MYRTACEAE,Eugenia,Eugenia_kunstleri
+A,L,A21,35.3,MYRISTICACEAE,Knema,Knema_latericia
+A,L,A22,46.4,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+A,L,A23,34.6,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A24,30.1,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A25,33.6,DIPTEROCARPACEAE,Shorea,Shorea_angustifolia
+A,L,A26,41.3,ANACARDIACEAE,Mangifera,Mangifera_caesia
+A,L,A27,65,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_conformis
+A,L,A28,43.7,DIPTEROCARPACEAE,Shorea,Shorea_angustifolia
+A,L,A29,44.8,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+A,L,A30,34.7,FAGACEAE,Castanopsis,Castanopsis_motleyana
+A,L,A31,38.5,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A32,30.4,EUPHORBIACEAE,Cleistanthus,Cleistanthus_paxii
+A,L,A33,42.1,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+A,L,A34,30.4,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+A,L,A35,70,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+A,L,A36,70,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+A,L,A37,34.9,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+A,L,A38,42,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+A,L,A39,49.8,DIPTEROCARPACEAE,Dryobalanops,Dryobalanops_lanceolata
+A,L,A40,34.5,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+A,L,A41,33.7,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+A,L,A42,38.9,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+A,L,A43,38.3,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A44,61,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+A,L,A45,45,FAGACEAE,Castanopsis,Castanopsis_motleyana
+A,L,A46,45,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+A,L,A47,60,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_conformis
+A,L,A48,65,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+A,L,A49,70,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+A,L,A50,38.7,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+A,L,A51,60,FAGACEAE,Lithocarpus,Lithocarpus_gracilis
+A,L,A52,65,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+A,L,A53,75,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+A,L,A54,40,DIPTEROCARPACEAE,Shorea,Shorea_agami
+A,L,A55,46.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+A,L,A56,52.5,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+A,L,A57,80,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+A,L,A58,30.6,LECYTHIDACEAE,Barringtonia,Barringtonia_sarcostachys
+A,L,A59,35.3,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+A,L,A60,35,FAGACEAE,Lithocarpus,Lithocarpus_gracilis
+B,L,B1,45,ALANGIACEAE,Alangium,Alangium_javanicum
+B,L,B2,37.9,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B3,50,MYRTACEAE,Eugenia,Eugenia_fastigiata
+B,L,B4,41.7,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B5,41.3,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B6,42.7,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B7,33.4,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B8,38,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+B,L,B9,41.5,DILLENIACEAE,Dillenia,Dillenia_excelsa
+B,L,B10,47.9,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+B,L,B11,55,LAURACEAE,Nothaphoebe,Nothaphoebe_sp.3
+B,L,B12,48.7,FAGACEAE,Lithocarpus,Lithocarpus_sp.4
+B,L,B13,60,VERBENACEAE (LAMIACEAE),Vitex,Vitex_qurmaea
+B,L,B14,35,LAURACEAE,Litsea,Litsea_sp.8
+B,L,B15,63.7,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+B,L,B16,55.4,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+B,L,B17,33.6,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+B,L,B18,30,MYRTACEAE,Eugenia,Eugenia_lineata
+B,L,B19,55,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+B,L,B20,45.4,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B21,36.2,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+B,L,B22,33.7,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B23,31.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B24,42.1,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B25,46.6,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B26,34.6,FABACEAE (LEGUMINOSAE),Peltophorum,Peltophorum_racemosum
+B,L,B27,38.8,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+B,L,B28,60,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+B,L,B29,41.2,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+B,L,B30,65,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+B,L,B31,43.5,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+B,L,B32,39.4,DIPTEROCARPACEAE,Hopea,Hopea_nervosa
+B,L,B33,31.5,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+B,L,B34,38.5,FABACEAE (LEGUMINOSAE),Sympetalandra,Sympetalandra_borneensis
+B,L,B35,51.2,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+B,L,B36,68.5,FABACEAE (LEGUMINOSAE),Dialium,Dialium_indum
+B,L,B37,70,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B38,40.2,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B39,38.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B40,45,VERBENACEAE,Teijsmanniodendron,Teijsmanniodendron_bogoriense
+B,L,B41,30,LAURACEAE,Nothaphoebe,Nothaphoebe_sp.3
+B,L,B42,35,ALANGIACEAE,Alangium,Alangium_javanicum
+B,L,B43,30,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+B,L,B44,40.1,SAPOTACEAE,Madhuca,Madhuca_korthalsii
+B,L,B45,45,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+B,L,B46,35.4,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+B,L,B47,35.8,DIPTEROCARPACEAE,Vatica,Vatica_dulitensis
+B,L,B48,30,SALICACEAE (FLACOURTIACEAE),Ryparosa,Ryparosa_hullettii
+B,L,B49,39,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+B,L,B50,33.2,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B51,31.1,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B52,34.4,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B53,34.5,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B54,38.3,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B55,40.5,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B56,35,LAURACEAE,Dehaasia,Dehaasia_caesia
+B,L,B57,30.3,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+B,L,B58,40.3,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+C,L,C1,47.2,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C2,38.4,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C3,33.3,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C4,40,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+C,L,C5,39.9,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C6,35,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C7,36.9,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C8,38.5,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C9,42.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+C,L,C10,31.5,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C11,42.4,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C12,30,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C13,95,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+C,L,C14,36.6,DIPTEROCARPACEAE,Anisoptera,Anisoptera_grossivenia
+C,L,C15,44,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C16,30,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+C,L,C17,34.3,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+C,L,C18,36.8,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C19,71.1,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+C,L,C20,55,FAGACEAE,Lithocarpus,Lithocarpus_sp.4
+C,L,C21,34,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C22,32.9,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+C,L,C23,69.1,DIPTEROCARPACEAE,Anisoptera,Anisoptera_grossivenia
+C,L,C24,39.9,DIPTEROCARPACEAE,Anisoptera,Anisoptera_grossivenia
+C,L,C25,34.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+C,L,C26,32.2,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C27,40.3,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C28,70,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+C,L,C29,35.4,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C30,50,MYRTACEAE,Eugenia,Eugenia_sp.6
+C,L,C31,46,EUPHORBIACEAE,Baccaurea,Baccaurea_macrocarpa
+C,L,C32,37.8,DIPTEROCARPACEAE,Vatica,Vatica_albiramis
+C,L,C33,36.4,ANNONACEAE,Neo-uvaria,Neo-uvaria_accuminatissima
+C,L,C34,65,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+C,L,C35,55.2,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+C,L,C36,41.1,SAPOTACEAE,Madhuca,Madhuca_korthalsii
+C,L,C37,61.2,OLACACEAE,Scorodocarpus,Scorodocarpus_borneensis
+C,L,C38,57.6,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+C,L,C39,71.8,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+C,L,C40,41.2,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+C,L,C41,47.3,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+C,L,C42,70,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+C,L,C43,37.9,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C44,65,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+C,L,C45,40,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C46,40.7,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C47,31.9,LAURACEAE,Litsea,Litsea_sp.2
+C,L,C48,43.3,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+C,L,C49,32.5,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+C,L,C50,42.4,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+C,L,C51,35,MYRTACEAE,Eugenia,Eugenia_sp.16
+C,L,C52,40,FAGACEAE,Lithocarpus,Lithocarpus_nieuwenhuisii
+C,L,C53,33.4,BURSERACEAE,Canarium,Canarium_denticulatum
+C,L,C54,70.9,DIPTEROCARPACEAE,Shorea,Shorea_agami
+C,L,C55,33,LECYTHIDACEAE,Barringtonia,Barringtonia_lanceolata
+C,L,C56,34.6,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+C,L,C57,31.5,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+C,L,C58,33.3,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+C,L,C59,33.9,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+C,L,C60,75,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+C,L,C61,33.6,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+C,L,C62,33.9,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D1,50,FAGACEAE,Lithocarpus,Lithocarpus_sp.2
+D,L,D2,50.5,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+D,L,D3,75,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+D,L,D4,80,DIPTEROCARPACEAE,Shorea,Shorea_superba
+D,L,D5,60,FAGACEAE,Lithocarpus,Lithocarpus_sp.2
+D,L,D6,45,FABACEAE (LEGUMINOSAE),Peltophorum,Peltophorum_racemosum
+D,L,D7,55,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+D,L,D8,35,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D9,39.5,MYRISTICACEAE,Horsfielda,Horsfielda_sp.1
+D,L,D10,67,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+D,L,D11,36,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+D,L,D12,35,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+D,L,D13,35,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+D,L,D14,130,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+D,L,D15,55,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+D,L,D16,34.9,ALANGIACEAE,Alangium,Alangium_javanicum
+D,L,D17,35,DIPTEROCARPACEAE,Hopea,Hopea_nervosa
+D,L,D18,34.7,COMBRETACEAE,Terminalia,Terminalia_subspathulata
+D,L,D19,30,MELIACEAE,Aglaia,Aglaia_elliptica
+D,L,D20,43.5,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+D,L,D21,31.7,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+D,L,D22,54.7,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+D,L,D23,85,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+D,L,D24,40,DIPTEROCARPACEAE,Shorea,Shorea_acuminatissima
+D,L,D25,32.2,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D26,90,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+D,L,D27,34.4,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+D,L,D28,75,DIPTEROCARPACEAE,Shorea,Shorea_macrophylla
+D,L,D29,63,CHRYSOBALANACEAE,Parinari,Parinari_oblongifolia
+D,L,D30,44.9,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+D,L,D31,48.3,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+D,L,D32,31.5,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D33,45,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+D,L,D34,37.9,MELIACEAE,Aglaia,Aglaia_elliptica
+D,L,D35,42.3,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+D,L,D36,75,DIPTEROCARPACEAE,Shorea,Shorea_superba
+D,L,D37,42.5,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+D,L,D38,40.3,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+D,L,D39,32.5,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+D,L,D40,70,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+D,L,D41,40,MYRTACEAE,Eugenia,Eugenia_sp.1
+D,L,D42,50.8,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+D,L,D43,40,MORACEAE,Ficus,Ficus_benjamina
+D,L,D44,30,MYRTACEAE,Eugenia,Eugenia_kunstleri
+D,L,D45,43.5,DIPTEROCARPACEAE,Shorea,Shorea_superba
+D,L,D46,55,MALVACEAE (BOMBACACEAE),Durio,Durio_kutejensis
+D,L,D47,55.1,DIPTEROCARPACEAE,Shorea,Shorea_superba
+D,L,D48,47.9,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+D,L,D49,36.2,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D50,33.2,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D51,33.8,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D52,35.4,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+D,L,D53,31.8,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D54,30,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+D,L,D55,49.5,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+D,L,D56,32.3,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D57,75,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+D,L,D58,51.6,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+D,L,D59,35,LAURACEAE,Litsea,Litsea_sp.3
+D,L,D60,60.5,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+D,L,D61,40,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+D,L,D62,35,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+D,L,D63,40,ALANGIACEAE,Alangium,Alangium_javanicum
+D,L,D64,30.8,ANNONACEAE,Polyalthia,Polyalthia_sumatrana
+E,L,E1,45.2,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+E,L,E2,37.3,MELIACEAE,Aglaia,Aglaia_sp.6
+E,L,E3,43.6,FAGACEAE,Lithocarpus,Lithocarpus_sp.4
+E,L,E4,60,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+E,L,E5,30.7,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E6,30,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E7,39.3,SYMPLOCACEAE,Symplocos,Symplocos_fasciculata
+E,L,E8,30.1,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+E,L,E9,34.9,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E10,48.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E11,41.4,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E12,37.2,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+E,L,E13,46.8,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E14,61,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+E,L,E15,54.3,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E16,80,FABACEAE (LEGUMINOSAE),Intsia,Intsia_sp.1
+E,L,E17,31.9,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+E,L,E18,45,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E19,49.6,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E20,43.5,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+E,L,E21,41,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+E,L,E22,46.1,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+E,L,E23,39.5,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+E,L,E24,70,FABACEAE (LEGUMINOSAE),Intsia,Intsia_palembanica
+E,L,E25,55,DIPTEROCARPACEAE,Dryobalanops,Dryobalanops_lanceolata
+E,L,E26,35,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E27,46.9,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E28,30.7,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E29,33.5,RUBIACEAE,Pleiocarpidia,Pleiocarpidia_sandahanica
+E,L,E30,40.8,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E31,60.1,FABACEAE (LEGUMINOSAE),Sindora ,Sindora _irpicina
+E,L,E32,46.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E33,41.4,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+E,L,E34,38.5,MELIACEAE,Aglaia,Aglaia_elliptica
+E,L,E35,37.3,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+E,L,E36,40.4,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E37,35,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E38,33.4,MYRISTICACEAE,Knema,Knema_cinerea
+E,L,E39,47.2,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E40,31.5,BURSERACEAE,Canarium,Canarium_denticulatum
+E,L,E41,45,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+E,L,E42,37,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+E,L,E43,31.6,LABIATAE (LAMIACEAE),Callicarpa,Callicarpa_longifolia
+E,L,E44,60.4,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+E,L,E45,48,EUPHORBIACEAE,Mallotus,Mallotus_oblongifolius
+E,L,E46,45.6,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+E,L,E47,42,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E48,32.2,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+E,L,E49,53.9,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+E,L,E50,33,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+E,L,E51,30,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+E,L,E52,35,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E53,39.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+E,L,E54,35,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+F,L,F1,40.1,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+F,L,F2,74.7,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+F,L,F3,100,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+F,L,F4,33,LECYTHIDACEAE,Barringtonia,Barringtonia_sarcostachys
+F,L,F5,33,CORNACEAE,Mastixia,Mastixia_trichotoma
+F,L,F6,30.9,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+F,L,F7,39.9,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+F,L,F8,33.5,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+F,L,F9,30.2,LECYTHIDACEAE,Barringtonia,Barringtonia_lanceolata
+F,L,F10,44.1,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+F,L,F11,37.4,ALANGIACEAE,Alangium,Alangium_javanicum
+F,L,F12,35,ALANGIACEAE,Alangium,Alangium_javanicum
+F,L,F13,65,FAGACEAE,Quercus,Quercus_sp.1
+F,L,F14,30,MYRTACEAE,Eugenia,Eugenia_kunstleri
+F,L,F15,40,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+F,L,F16,38.3,BURSERACEAE,Canarium,Canarium_denticulatum
+F,L,F17,51.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+F,L,F18,38.9,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+F,L,F19,90,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+F,L,F20,31,DIPTEROCARPACEAE,Hopea,Hopea_ferruginea
+F,L,F21,30.5,LECYTHIDACEAE,Barringtonia,Barringtonia_sarcostachys
+F,L,F22,32.5,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+F,L,F23,55,MALVACEAE (STERCULIACEAE),Scaphium,Scaphium_macropodum
+F,L,F24,45,ALANGIACEAE,Alangium,Alangium_javanicum
+F,L,F25,37.7,LECYTHIDACEAE,Barringtonia,Barringtonia_sarcostachys
+F,L,F26,40,VERBENACEAE,Teijsmanniodendron,Teijsmanniodendron_bogoriense
+F,L,F27,30.3,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+F,L,F28,35.8,FAGACEAE,Lithocarpus,Lithocarpus_gracilis
+F,L,F29,85,MELIACEAE,Azadirachta,Azadirachta_excelsa
+F,L,F30,70,DIPTEROCARPACEAE,Shorea,Shorea_ovalis
+F,L,F31,50,SIMAROUBACEAE,Irvingia,Irvingia_malayana
+F,L,F32,39.5,DIPTEROCARPACEAE,Vatica,Vatica_sarawakensis
+F,L,F33,41.4,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+F,L,F34,45.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+F,L,F35,38.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+F,L,F36,45,DILLENIACEAE,Dillenia,Dillenia_excelsa
+F,L,F37,32.8,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+F,L,F38,37.6,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+F,L,F39,44,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+F,L,F40,34.9,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+F,L,F41,32,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+F,L,F42,45,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+F,L,F43,38.2,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+F,L,F44,45.5,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+F,L,F45,40,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+G,L,G1,60,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+G,L,G2,75,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+G,L,G3,30,DIPTEROCARPACEAE,Hopea,Hopea_ferruginea
+G,L,G4,43.8,MALVACEAE (TILIACEAE),Microcos,Microcos_crassifolia
+G,L,G5,36,EBENACEAE,Diospyros,Diospyros_macrophylla
+G,L,G6,75,DIPTEROCARPACEAE,Hopea,Hopea_ferruginea
+G,L,G7,40,ALANGIACEAE,Alangium,Alangium_javanicum
+G,L,G8,48,DIPTEROCARPACEAE,Hopea,Hopea_ferruginea
+G,L,G9,45,MELIACEAE,Dysoxylon,Dysoxylon_alliaceum
+G,L,G10,48,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+G,L,G11,50,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+G,L,G12,40,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+G,L,G13,35,DIPTEROCARPACEAE,Hopea,Hopea_ferruginea
+G,L,G14,51,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+G,L,G15,40,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+G,L,G16,60,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+G,L,G17,43.2,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+G,L,G18,32,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+G,L,G19,40,FAGACEAE,Lithocarpus,Lithocarpus_gracilis
+G,L,G20,30.2,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+G,L,G21,43,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+G,L,G22,61,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+G,L,G23,64,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+G,L,G24,53.5,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+G,L,G25,52,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+G,L,G26,52,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+G,L,G27,38,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+G,L,G28,50.5,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+G,L,G29,65,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+G,L,G30,35.5,POLYGALACEAE,Xanthophyllum,Xanthophyllum_affine
+G,L,G31,32.5,SALICACEAE (FLACOURTIACEAE),Hydnocarpus,Hydnocarpus_woodii
+G,L,G32,80,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+G,L,G33,52,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+G,L,G34,66,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+G,L,G35,37.5,MELIACEAE,Aglaia,Aglaia_silvestris
+G,L,G36,31.5,EBENACEAE,Diospyros,Diospyros_macrophylla
+G,L,G37,52,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+G,L,G38,45,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+G,L,G39,50,DATISCACEAE,Octomeles,Octomeles_sumatrana
+H,L,H1,30.9,LAURACEAE,Dehaasia,Dehaasia_caesia
+H,L,H2,37,FAGACEAE,Lithocarpus,Lithocarpus_sp.3
+H,L,H3,33.8,DIPTEROCARPACEAE,Shorea,Shorea_laxa
+H,L,H4,46.3,ALANGIACEAE,Alangium,Alangium_javanicum
+H,L,H5,85,DIPTEROCARPACEAE,Shorea,Shorea_pauciflora
+H,L,H6,30,LAURACEAE,Dehaasia,Dehaasia_caesia
+H,L,H7,36,OLACACEAE,Ochanostachys,Ochanostachys_amentacea
+H,L,H8,70,DIPTEROCARPACEAE,Shorea,Shorea_pauciflora
+H,L,H9,55,MAGNOLIACEAE,Magnolia,Magnolia_candollii
+H,L,H10,70,LAURACEAE,Dehaasia,Dehaasia_caesia
+H,L,H11,35,FAGACEAE,Castanopsis,Castanopsis_hypophoenicea
+H,L,H12,38,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H13,40,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+H,L,H14,44,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+H,L,H15,34.7,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H16,40.5,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H17,47,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+H,L,H18,40.5,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+H,L,H19,52.9,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+H,L,H20,36.3,DIPTEROCARPACEAE,Hopea,Hopea_nervosa
+H,L,H21,32.9,ANNONACEAE,Polyalthia,Polyalthia_sumatrana
+H,L,H22,30.3,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+H,L,H23,38.2,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H24,33.6,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+H,L,H25,110,DIPTEROCARPACEAE,Shorea,Shorea_superba
+H,L,H26,43.5,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+H,L,H27,35.3,SAPOTACEAE,Madhuca,Madhuca_kingiana
+H,L,H28,35,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+H,L,H29,53.5,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+H,L,H30,65,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+H,L,H31,35,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+H,L,H32,33,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+H,L,H33,40,FABACEAE (LEGUMINOSAE),Archidendron,Archidendron_sp.2
+H,L,H34,31.5,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+H,L,H35,58.4,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+H,L,H36,38.5,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+H,L,H37,31,LAURACEAE,Litsea,Litsea_sp.27
+H,L,H38,45,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H39,49,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H40,21.7,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+H,L,H41,35.2,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+H,L,H42,60,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+H,L,H43,36,DIPTEROCARPACEAE,Shorea,Shorea_laxa
+H,L,H44,35,ALANGIACEAE,Alangium,Alangium_javanicum
+H,L,H45,33.9,SAPOTACEAE,Madhuca,Madhuca_kingiana
+H,L,H46,40,DIPTEROCARPACEAE,Vatica,Vatica_dulitensis
+H,L,H47,45.3,ANACARDIACEAE,Gluta ,Gluta _wallichii
+H,L,H48,31.5,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+H,L,H49,76,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+H,L,H50,51,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+H,L,H51,39.2,MALVACEAE (TILIACEAE),Microcos,Microcos_crassifolia
+H,L,H52,30,DIPTEROCARPACEAE,Hopea,Hopea_nutans
+H,L,H53,80,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+H,L,H54,40,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+H,L,H55,60,SAPOTACEAE,Madhuca,Madhuca_kingiana
+H,L,H56,85,MALVACEAE (BOMBACACEAE),Durio,Durio_sp.1
+H,L,H57,40.4,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+H,L,H58,60,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+H,L,H59,35,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H60,37,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H61,52,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+H,L,H62,60,DIPTEROCARPACEAE,Shorea,Shorea_pauciflora
+H,L,H63,59.6,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+H,L,H64,67,DIPTEROCARPACEAE,Shorea,Shorea_laxa
+H,L,H65,47.5,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+H,L,H66,33.3,BURSERACEAE,Canarium,Canarium_denticulatum
+H,L,H67,39.4,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H68,31.2,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+H,L,H69,32.2,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+H,L,H70,42.1,MELIACEAE,Dysoxylon,Dysoxylon_sp.8
+H,L,H71,32,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+H,L,H72,33,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+H,L,H73,34.6,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+H,L,H74,40,DILLENIACEAE,Dillenia,Dillenia_excelsa
+I,L,I1,69.6,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+I,L,I2,53,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+I,L,I3,50,MYRTACEAE,Eugenia,Eugenia_sp.23
+I,L,I4,67,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+I,L,I5,65,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+I,L,I6,36.2,EBENACEAE,Diospyros,Diospyros_macrophylla
+I,L,I7,60.1,DIPTEROCARPACEAE,Shorea,Shorea_symingtonii
+I,L,I8,31.4,MALVACEAE (STERCULIACEAE),Pterospermum,Pterospermum_stapfianum
+I,L,I9,39.8,DATISCACEAE,Octomeles,Octomeles_sumatrana
+I,L,I10,31.2,DATISCACEAE,Octomeles,Octomeles_sumatrana
+I,L,I11,53.2,DATISCACEAE,Octomeles,Octomeles_sumatrana
+I,L,I12,31,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+I,L,I13,30,MELIACEAE,Aglaia,Aglaia_odoratissima
+I,L,I14,75,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+I,L,I15,60,MALVACEAE (BOMBACACEAE),Neesia,Neesia_synandra
+I,L,I16,35,DILLENIACEAE,Dillenia,Dillenia_excelsa
+I,L,I17,31,LYTHRACEAE (SONNERATIACEAE),Duabanga,Duabanga_moluccana
+I,L,I18,37,RUBIACEAE,Neolamarckia,Neolamarckia_cadamba
+I,L,I19,35,BURSERACEAE,Triomma,Triomma_malaccensis
+I,L,I20,45,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+I,L,I21,45,DATISCACEAE,Octomeles,Octomeles_sumatrana
+I,L,I22,34,SAPINDACEAE,Paranephelium,Paranephelium_xestophyllum
+I,L,I23,70,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+I,L,I24,40,MYRTACEAE,Eugenia,Eugenia_sp.23
+I,L,I25,45,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+I,L,I26,54.5,RUBIACEAE,Neolamarckia,Neolamarckia_cadamba
+I,L,I27,43.5,LYTHRACEAE (SONNERATIACEAE),Duabanga,Duabanga_moluccana
+I,L,I28,60,MELIACEAE,Aglaia,Aglaia_tomentosa
+J,L,J1,70.2,DATISCACEAE,Octomeles,Octomeles_sumatrana
+J,L,J2,35,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+J,L,J3,50,DATISCACEAE,Octomeles,Octomeles_sumatrana
+J,L,J4,36.4,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+J,L,J5,35,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+J,L,J6,45,DATISCACEAE,Octomeles,Octomeles_sumatrana
+J,L,J7,65,DATISCACEAE,Octomeles,Octomeles_sumatrana
+J,L,J8,60,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+J,L,J9,38.9,DATISCACEAE,Octomeles,Octomeles_sumatrana
+J,L,J10,30.4,EUPHORBIACEAE,Endospermum,Endospermum_diadenum
+J,L,J11,32.5,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+J,L,J12,52.5,DATISCACEAE,Octomeles,Octomeles_sumatrana
+J,L,J13,50,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+J,L,J14,55,LAURACEAE,Litsea,Litsea_sp.32
+J,L,J15,44.4,DATISCACEAE,Octomeles,Octomeles_sumatrana
+J,L,J16,50,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+J,L,J17,55,DATISCACEAE,Octomeles,Octomeles_sumatrana
+J,L,J18,35,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+J,L,J19,41.8,EUPHORBIACEAE,Macaranga ,Macaranga _pearsonii
+J,L,J20,40.1,EUPHORBIACEAE,Macaranga ,Macaranga _gigantea
+J,L,J21,34.2,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+J,L,J22,40,SAPINDACEAE,Nephelium,Nephelium_ramboutan-ake
+J,L,J23,49,BURSERACEAE,Canarium,Canarium_odontophyllum
+K,L,K1,40,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+K,L,K2,30.3,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+K,L,K3,49.4,FAGACEAE,Castanopsis,Castanopsis_motleyana
+K,L,K4,110,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+K,L,K5,47.5,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+K,L,K6,31.4,LECYTHIDACEAE,Barringtonia,Barringtonia_lanceolata
+K,L,K7,34.1,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+K,L,K8,34.3,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+K,L,K9,34,MELIACEAE,Chisocheton,Chisocheton_sarawakanus
+K,L,K10,43,SALICACEAE (FLACOURTIACEAE),Homalium,Homalium_foetidum
+K,L,K11,40,MYRTACEAE,Eugenia,Eugenia_chrysantha
+K,L,K12,35,FAGACEAE,Lithocarpus,Lithocarpus_leptogyne
+K,L,K13,56.4,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+K,L,K14,31.9,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+K,L,K15,47.6,FAGACEAE,Lithocarpus,Lithocarpus_gracilis
+K,L,K16,55,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+K,L,K17,31.3,EUPHORBIACEAE,Glochidion,Glochidion_rubrum
+K,L,K18,45,MELIACEAE,Dysoxylon,Dysoxylon_alliaceum
+K,L,K19,39.5,LAURACEAE,Cryptocarya,Cryptocarya_erectinervia
+K,L,K20,80,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+K,L,K21,39.7,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+K,L,K22,38,MYRTACEAE,Eugenia,Eugenia_chrysantha
+K,L,K23,36.3,LAURACEAE,Cryptocarya,Cryptocarya_sp.3
+K,L,K24,58.5,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+K,L,K25,44,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+K,L,K26,45,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+K,L,K27,40,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+K,L,K28,40,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+K,L,K29,55,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+K,L,K30,65,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+L,U,L1,60,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L2,55,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+L,U,L3,85,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L4,44.2,FAGACEAE,Lithocarpus,Lithocarpus_leptogyne
+L,U,L5,80,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L6,45,FABACEAE (LEGUMINOSAE),Peltophorum,Peltophorum_racemosum
+L,U,L7,35.9,LECYTHIDACEAE,Barringtonia,Barringtonia_sarcostachys
+L,U,L8,50,FABACEAE (LEGUMINOSAE),Peltophorum,Peltophorum_racemosum
+L,U,L9,45,MELIACEAE,Dysoxylon,Dysoxylon_sp.4
+L,U,L10,90,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+L,U,L11,30,MYRTACEAE,Eugenia,Eugenia_sp.6
+L,U,L12,60,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L13,65,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+L,U,L14,49.5,FAGACEAE,Lithocarpus,Lithocarpus_leptogyne
+L,U,L15,76.4,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+L,U,L16,47.9,FAGACEAE,Castanopsis,Castanopsis_hypophoenicea
+L,U,L17,56.9,FAGACEAE,Lithocarpus,Lithocarpus_leptogyne
+L,U,L18,85,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L19,45,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+L,U,L20,50,LAURACEAE,Litsea,Litsea_gracilis
+L,U,L21,100,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+L,U,L22,65,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+L,U,L23,70,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L24,38.5,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+L,U,L25,38.2,POLYGALACEAE,Xanthophyllum,Xanthophyllum_affine
+L,U,L26,37,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L27,65,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+L,U,L28,50,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+L,U,L29,70,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+L,U,L30,30,POLYGALACEAE,Xanthophyllum,Xanthophyllum_affine
+L,U,L31,53.1,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+L,U,L32,30,LAURACEAE,Cryptocarya,Cryptocarya_sp.4
+L,U,L33,72.7,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_caudiferus
+L,U,L34,80,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+L,U,L35,58.8,MORACEAE,Artocarpus,Artocarpus_dadak
+L,U,L36,85,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+L,U,L37,45,ULMACEAE,Gironniera,Gironniera_nervosa
+L,U,L38,50,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+L,U,L39,65,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L40,80,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+L,U,L41,80,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+L,U,L42,38.9,POLYGALACEAE,Xanthophyllum,Xanthophyllum_vitellinum
+L,U,L43,69.5,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L44,55,MORACEAE,Ficus,Ficus_benjamina
+L,U,L45,55,APOCYNACEAE,Alstonia,Alstonia_angustiloba
+L,U,L46,36,LAURACEAE,Dehaasia,Dehaasia_caesia
+L,U,L47,43.6,FAGACEAE,Lithocarpus,Lithocarpus_leptogyne
+L,U,L48,35.6,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+L,U,L49,90,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L50,35.3,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+L,U,L51,40.3,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+L,U,L52,45,BURSERACEAE,Canarium,Canarium_odontophyllum
+L,U,L53,30,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+L,U,L54,30,MYRTACEAE,Eugenia,Eugenia_sp.6
+L,U,L55,60,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+M,U,M1,42.9,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+M,U,M2,65,BURSERACEAE,Santiria,Santiria_tomentosa
+M,U,M3,40,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+M,U,M4,35,MYRTACEAE,Eugenia,Eugenia_fastigiata
+M,U,M5,40,ANNONACEAE,Polyalthia,Polyalthia_sumatrana
+M,U,M6,44.4,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+M,U,M7,32.5,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+M,U,M8,65,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+M,U,M9,80,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+M,U,M10,30,BURSERACEAE,Santiria,Santiria_tomentosa
+M,U,M11,30.7,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+M,U,M12,34.5,DILLENIACEAE,Dillenia,Dillenia_excelsa
+M,U,M13,50,MYRTACEAE,Eugenia,Eugenia_fastigiata
+M,U,M14,33.6,MELIACEAE,Aglaia,Aglaia_macrocarpa
+M,U,M15,100,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+M,U,M16,70,SAPOTACEAE,Palaquium,Palaquium_rostratum
+M,U,M17,49.5,EUPHORBIACEAE,Macaranga ,Macaranga _hypoleuca
+M,U,M18,80,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+M,U,M19,33.5,ANNONACEAE,Polyalthia,Polyalthia_sumatrana
+M,U,M20,38.4,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+M,U,M21,40,MALVACEAE (TILIACEAE),Microcos,Microcos_crassifolia
+M,U,M22,90,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+M,U,M23,75,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+M,U,M24,80,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+N,U,N1,36,ALANGIACEAE,Alangium,Alangium_javanicum
+N,U,N2,45,MYRTACEAE,Eugenia,Eugenia_sp.6
+N,U,N3,45,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+N,U,N4,40,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+N,U,N5,32.9,EBENACEAE,Diospyros,Diospyros_macrophylla
+N,U,N6,39,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+N,U,N7,54,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+N,U,N8,40,MALVACEAE (STERCULIACEAE),Pterospermum,Pterospermum_stapfianum
+N,U,N9,35,MELIACEAE,Chisocheton,Chisocheton_sarawakanus
+N,U,N10,75,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+N,U,N11,125,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+N,U,N12,42,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+N,U,N13,45,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+N,U,N14,37.5,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+N,U,N15,70,DIPTEROCARPACEAE,Shorea,Shorea_falciferoides
+N,U,N16,40,POLYGALACEAE,Xanthophyllum,Xanthophyllum_ecarinatum
+N,U,N17,80,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+N,U,N18,30,MELIACEAE,Chisocheton,Chisocheton_sarawakanus
+N,U,N19,45,MELIACEAE,Aglaia,Aglaia_macrocarpa
+N,U,N20,40,MELIACEAE,Aglaia,Aglaia_macrocarpa
+N,U,N21,30,ANNONACEAE,Polyalthia,Polyalthia_sp.9
+N,U,N22,75,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+N,U,N23,45,MYRTACEAE,Eugenia,Eugenia_sp.24
+N,U,N24,35,ALANGIACEAE,Alangium,Alangium_javanicum
+N,U,N25,45,LAURACEAE,Nothaphoebe,Nothaphoebe_umbelliflora
+N,U,N26,30,BURSERACEAE,Santiria,Santiria_tomentosa
+N,U,N27,45,LECYTHIDACEAE,Barringtonia,Barringtonia_sarcostachys
+N,U,N28,38.5,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+N,U,N29,90,DIPTEROCARPACEAE,Shorea,Shorea_faguetiana
+N,U,N30,38,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+N,U,N31,30,MELIACEAE,Chisocheton,Chisocheton_sarawakanus
+N,U,N32,38,EBENACEAE,Diospyros,Diospyros_frutescens
+N,U,N33,34.7,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+N,U,N34,51.1,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+N,U,N35,42.4,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+N,U,N36,30.7,MELIACEAE,Chisocheton,Chisocheton_ceramicus
+N,U,N37,40,MYRTACEAE,Eugenia,Eugenia_fastigiata
+N,U,N38,33.5,ALANGIACEAE,Alangium,Alangium_javanicum
+N,U,N39,56.1,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+N,U,N40,35,MALVACEAE (STERCULIACEAE),Scaphium,Scaphium_macropodum
+N,U,N41,118.1,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+N,U,N42,72,MELIACEAE,Chisocheton,Chisocheton_beccarianus
+O,U,O1,30,FAGACEAE,Castanopsis,Castanopsis_hypophoenicea
+O,U,O2,90,DIPTEROCARPACEAE,Shorea,Shorea_faguetiana
+O,U,O3,45,SAPINDACEAE,Nephelium,Nephelium_ramboutan-ake
+O,U,O4,35.6,MYRTACEAE,Eugenia,Eugenia_chrysantha
+O,U,O5,50,APOCYNACEAE,Alstonia,Alstonia_angustiloba
+O,U,O6,60,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+O,U,O7,62,MALVACEAE (STERCULIACEAE),Sterculia,Sterculia_cordata
+O,U,O8,57.2,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+O,U,O9,33,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+O,U,O10,42,DIPTEROCARPACEAE,Shorea,Shorea_symingtonii
+O,U,O11,40,MELIACEAE,Aglaia,Aglaia_silvestris
+O,U,O12,75,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+O,U,O13,52.3,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+O,U,O14,80,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+O,U,O15,38.9,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+O,U,O16,45,MYRISTICACEAE,Myristica,Myristica_sp.1
+O,U,O17,95,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+O,U,O18,45,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+O,U,O19,45,FAGACEAE,Castanopsis,Castanopsis_motleyana
+O,U,O20,90,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+O,U,O21,39,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+O,U,O22,31.5,MELIACEAE,Aglaia,Aglaia_elliptica
+O,U,O23,31,ALANGIACEAE,Alangium,Alangium_javanicum
+O,U,O24,50,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+O,U,O25,36,POLYGALACEAE,Xanthophyllum,Xanthophyllum_affine
+O,U,O26,75,LAURACEAE,Litsea,Litsea_sp.4
+O,U,O27,50,MYRTACEAE,Eugenia,Eugenia_fastigiata
+O,U,O28,31,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+O,U,O29,90,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+O,U,O30,36.5,BURSERACEAE,Canarium,Canarium_denticulatum
+O,U,O31,31,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+O,U,O32,41.4,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+O,U,O33,80,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+O,U,O34,40,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+O,U,O35,45,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+O,U,O36,70,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+O,U,O37,100,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+P,U,P1,80,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+P,U,P2,80,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+P,U,P3,51.1,ANNONACEAE,Polyalthia,Polyalthia_rumphii
+P,U,P4,65,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+P,U,P5,80,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+P,U,P6,50,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+P,U,P7,45,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+P,U,P8,56.9,DIPTEROCARPACEAE,Dryobalanops,Dryobalanops_lanceolata
+P,U,P9,50,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+P,U,P10,47,FABACEAE (LEGUMINOSAE),Sympetalandra,Sympetalandra_borneensis
+P,U,P11,55,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+P,U,P12,49.6,DIPTEROCARPACEAE,Dryobalanops,Dryobalanops_lanceolata
+P,U,P13,90,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+P,U,P14,71.8,DIPTEROCARPACEAE,Dryobalanops,Dryobalanops_lanceolata
+P,U,P15,38.6,DIPTEROCARPACEAE,Dryobalanops,Dryobalanops_lanceolata
+P,U,P16,92.5,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+P,U,P17,40,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+P,U,P18,37,RUBIACEAE,Ludekia,Ludekia_borneensis
+P,U,P19,80,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+P,U,P20,76.5,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+P,U,P21,65,MORACEAE,Ficus,Ficus_sp.3
+P,U,P22,80,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+P,U,P23,44,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+P,U,P24,45,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+P,U,P25,35,EBENACEAE,Diospyros,Diospyros_macrophylla
+P,U,P26,45,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+P,U,P27,80,DIPTEROCARPACEAE,Shorea,Shorea_agami
+P,U,P28,60,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+P,U,P29,30,OLEACEAE,Chionanthus,Chionanthus_pluriflorus
+P,U,P30,70,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+P,U,P31,90,DIPTEROCARPACEAE,Shorea,Shorea_pauciflora
+P,U,P32,70,DIPTEROCARPACEAE,Shorea,Shorea_pauciflora
+P,U,P33,40,EBENACEAE,Diospyros,Diospyros_macrophylla
+P,U,P34,60,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+P,U,P35,100,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+P,U,P36,55,FABACEAE (LEGUMINOSAE),Sympetalandra,Sympetalandra_borneensis
+P,U,P37,43,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+P,U,P38,61,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+P,U,P39,30,FAGACEAE,Castanopsis,Castanopsis_hypophoenicea
+P,U,P40,36.9,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+P,U,P41,30,MORACEAE,Artocarpus,Artocarpus_dadak
+Q,U,Q1,47,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+Q,U,Q2,34.8,MYRTACEAE,Eugenia,Eugenia_sp.6
+Q,U,Q3,35.1,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+Q,U,Q4,74.7,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q5,88.1,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+Q,U,Q6,109.1,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+Q,U,Q7,116.1,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+Q,U,Q8,43.9,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+Q,U,Q9,46.9,EBENACEAE,Diospyros,Diospyros_macrophylla
+Q,U,Q10,48,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+Q,U,Q11,31.8,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q12,102.1,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+Q,U,Q13,68.2,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q14,65.7,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q15,38.3,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q16,83.9,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+Q,U,Q17,39.1,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+Q,U,Q18,33.3,BURSERACEAE,Canarium,Canarium_denticulatum
+Q,U,Q19,30.6,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q20,33.3,SAPINDACEAE,Nephelium,Nephelium_ramboutan-ake
+Q,U,Q21,34.8,ALANGIACEAE,Alangium,Alangium_javanicum
+Q,U,Q22,33.9,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+Q,U,Q23,51.3,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q24,43.5,ALANGIACEAE,Alangium,Alangium_javanicum
+Q,U,Q25,30.1,ALANGIACEAE,Alangium,Alangium_javanicum
+Q,U,Q26,32.9,ANNONACEAE,Polyalthia,Polyalthia_rumphii
+Q,U,Q27,31.3,RUBIACEAE,Canthium,Canthium_sp.1
+Q,U,Q28,47.3,MELIACEAE,Chisocheton,Chisocheton_granatum
+Q,U,Q29,91.1,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+Q,U,Q30,32.6,RUBIACEAE,Canthium,Canthium_sp.1
+Q,U,Q31,30,MELIACEAE,Aglaia,Aglaia_silvestris
+Q,U,Q32,37.4,EBENACEAE,Diospyros,Diospyros_macrophylla
+Q,U,Q33,30.9,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+Q,U,Q34,62.7,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q35,43.6,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q36,97,SAPINDACEAE,Pometia,Pometia_pinnata
+Q,U,Q37,34.8,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q38,51.3,CHRYSOBALANACEAE,Parinari,Parinari_oblongifolia
+Q,U,Q39,95.9,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+Q,U,Q40,58.7,CHRYSOBALANACEAE,Parinari,Parinari_oblongifolia
+Q,U,Q41,79.4,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+Q,U,Q42,42.2,MALVACEAE (TILIACEAE),Microcos,Microcos_crassifolia
+Q,U,Q43,96.9,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q44,43.11,SAPINDACEAE,Nephelium,Nephelium_ramboutan-ake
+Q,U,Q45,47.4,SAPINDACEAE,Dimocarpus,Dimocarpus_longan
+Q,U,Q46,110.5,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+Q,U,Q47,30.6,MYRTACEAE,Eugenia,Eugenia_fastigiata
+Q,U,Q48,58.7,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+Q,U,Q49,55.3,MORACEAE,Artocarpus,Artocarpus_anisophyllus
+Q,U,Q50,35.3,FAGACEAE,Lithocarpus,Lithocarpus_leptogyne
+Q,U,Q51,56.7,FABACEAE (LEGUMINOSAE),Dialium,Dialium_indum
+Q,U,Q52,108.7,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+Q,U,Q53,48.9,FABACEAE (LEGUMINOSAE),Dialium,Dialium_hydnocarpoides
+Q,U,Q54,136.6,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+Q,U,Q55,37.1,MELIACEAE,Aglaia,Aglaia_silvestris
+R,U,R1,80,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+R,U,R2,46.5,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+R,U,R3,75,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+R,U,R4,45,MYRTACEAE,Eugenia,Eugenia_fastigiata
+R,U,R5,31.6,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+R,U,R6,100,DIPTEROCARPACEAE,Shorea,Shorea_argentifolia
+R,U,R7,95,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+R,U,R8,33.7,MYRISTICACEAE,Knema,Knema_laurina
+R,U,R9,50,VERBENACEAE (LAMIACEAE),Vitex,Vitex_qurmaea
+R,U,R10,40,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+R,U,R11,44.9,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+R,U,R12,38,SALICACEAE (FLACOURTIACEAE),Hydnocarpus,Hydnocarpus_woodii
+R,U,R13,40,FAGACEAE,Lithocarpus,Lithocarpus_gracilis
+R,U,R14,65,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+R,U,R15,35,DIPTEROCARPACEAE,Hopea,Hopea_nervosa
+R,U,R16,32.2,MALVACEAE (STERCULIACEAE),Pterospermum,Pterospermum_stapfianum
+R,U,R17,75,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+R,U,R18,32.3,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+R,U,R19,75,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+R,U,R20,49.5,DIPTEROCARPACEAE,Hopea,Hopea_nervosa
+R,U,R21,30,DIPTEROCARPACEAE,Hopea,Hopea_nervosa
+R,U,R22,40,SALICACEAE (FLACOURTIACEAE),Hydnocarpus,Hydnocarpus_woodii
+R,U,R23,65,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+R,U,R24,50,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+R,U,R25,85,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+R,U,R26,35,MYRTACEAE,Eugenia,Eugenia_sp.1
+R,U,R27,100,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+R,U,R28,48.6,FAGACEAE,Lithocarpus,Lithocarpus_gracilis
+R,U,R29,40,MELIACEAE,Chisocheton,Chisocheton_sarawakanus
+R,U,R30,42.3,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+R,U,R31,45.1,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+R,U,R32,36.3,RHAMNACEAE,Zizyphus,Zizyphus_angustifolius
+R,U,R33,100,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+R,U,R34,75,DIPTEROCARPACEAE,Hopea,Hopea_nervosa
+R,U,R35,40,SAPINDACEAE,Pometia,Pometia_pinnata
+R,U,R36,37,EBENACEAE,Diospyros,Diospyros_frutescens
+R,U,R37,80,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+R,U,R38,47.6,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+R,U,R39,36.6,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+R,U,R40,32.2,CELASTRACEAE,Lophopetalum,Lophopetalum_beccarianum
+R,U,R41,32.1,MALVACEAE (STERCULIACEAE),Pterospermum,Pterospermum_stapfianum
+S,U,S1,30.8,BURSERACEAE,Canarium,Canarium_odontophyllum
+S,U,S2,60,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S3,33.2,EBENACEAE,Diospyros,Diospyros_macrophylla
+S,U,S4,34.4,DIPTEROCARPACEAE,Parashorea,Parashorea_tomentella
+S,U,S5,75,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S6,35,EBENACEAE,Diospyros,Diospyros_macrophylla
+S,U,S7,130,DIPTEROCARPACEAE,Shorea,Shorea_pauciflora
+S,U,S8,55,RUBIACEAE,Ludekia,Ludekia_borneensis
+S,U,S9,39.5,OLEACEAE,Chionanthus,Chionanthus_pluriflorus
+S,U,S10,65,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S11,80,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S12,30,SAPINDACEAE,Nephelium,Nephelium_maingayi
+S,U,S13,57.6,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S14,78,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S15,30.9,THYMELAEACEAE,Aquilaria,Aquilaria_malaccensis
+S,U,S16,100,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S17,32.5,SAPINDACEAE,Nephelium,Nephelium_ramboutan-ake
+S,U,S18,55,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+S,U,S19,31,MELIACEAE,Aglaia,Aglaia_silvestris
+S,U,S20,46.5,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S21,56,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+S,U,S22,33.2,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S23,70,DIPTEROCARPACEAE,Shorea,Shorea_parvifolia
+S,U,S24,34.5,OLEACEAE,Chionanthus,Chionanthus_pluriflorus
+S,U,S25,35,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S26,31,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S27,36,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+S,U,S28,54,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+S,U,S29,145,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S30,50,FABACEAE (LEGUMINOSAE),Peltophorum,Peltophorum_racemosum
+S,U,S31,32.5,OLEACEAE,Chionanthus,Chionanthus_pluriflorus
+S,U,S32,40,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S33,100,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S34,55.5,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+S,U,S35,32.2,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+S,U,S36,95,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S37,40.5,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S38,69,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S39,45,EBENACEAE,Diospyros,Diospyros_macrophylla
+S,U,S40,44.4,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S41,70,MALVACEAE (BOMBACACEAE),Durio,Durio_kutejensis
+S,U,S42,80,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S43,40.6,FAGACEAE,Castanopsis,Castanopsis_motleyana
+S,U,S44,45,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S45,34.1,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+S,U,S46,90,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+S,U,S47,55,DIPTEROCARPACEAE,Shorea,Shorea_gibbosa
+S,U,S48,40,BURSERACEAE,Canarium,Canarium_denticulatum
+T,U,T1,46.1,EBENACEAE,Diospyros,Diospyros_macrophylla
+T,U,T2,31.9,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T3,36,EUPHORBIACEAE,Glochidion,Glochidion_rubrum
+T,U,T4,40.6,SAPINDACEAE,Nephelium,Nephelium_ramboutan-ake
+T,U,T5,32.5,DIPTEROCARPACEAE,Shorea,Shorea_faguetiana
+T,U,T6,67.3,COMBRETACEAE,Terminalia,Terminalia_subspathulata
+T,U,T7,36.2,EBENACEAE,Diospyros,Diospyros_macrophylla
+T,U,T8,111,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+T,U,T9,40.2,EBENACEAE,Diospyros,Diospyros_macrophylla
+T,U,T10,53,MALVACEAE (TILIACEAE),Microcos,Microcos_crassifolia
+T,U,T11,143.3,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+T,U,T12,51,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T13,36.1,DILLENIACEAE,Dillenia,Dillenia_excelsa
+T,U,T14,72,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+T,U,T15,33.2,MALVACEAE (STERCULIACEAE),Scaphium,Scaphium_macropodum
+T,U,T16,55,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T17,55.9,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T18,43.6,EBENACEAE,Diospyros,Diospyros_sp.3
+T,U,T19,50,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+T,U,T20,55.5,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+T,U,T21,37.3,SAPINDACEAE,Nephelium,Nephelium_ramboutan-ake
+T,U,T22,35.1,DIPTEROCARPACEAE,Shorea,Shorea_faguetiana
+T,U,T23,43.7,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T24,59.5,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T25,72,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+T,U,T26,33.1,EBENACEAE,Diospyros,Diospyros_macrophylla
+T,U,T27,33.6,DIPTEROCARPACEAE,Shorea,Shorea_faguetiana
+T,U,T28,55.5,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_applanatus
+T,U,T29,50,DIPTEROCARPACEAE,Dryobalanops,Dryobalanops_lanceolata
+T,U,T30,48.8,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T31,56.7,DIPTEROCARPACEAE,Dipterocarpus,Dipterocarpus_applanatus
+T,U,T32,39,MALVACEAE (TILIACEAE),Microcos,Microcos_crassifolia
+T,U,T33,34.1,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T34,53.8,SAPINDACEAE,Pometia,Pometia_pinnata
+T,U,T35,41.9,MALVACEAE (TILIACEAE),Pentace,Pentace_laxiflora
+T,U,T36,53,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T37,44,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+T,U,T38,43,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+T,U,T39,49.6,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T40,42.2,SAPINDACEAE,Nephelium,Nephelium_ramboutan-ake
+T,U,T41,36,SAPINDACEAE,Nephelium,Nephelium_ramboutan-ake
+T,U,T42,31,THYMELAEACEAE,Gonystylus,Gonystylus_affinis
+T,U,T43,31.4,THYMELAEACEAE,Gonystylus,Gonystylus_affinis
+T,U,T44,40.1,LECYTHIDACEAE (MYRTACEAE),Planchonia,Planchonia_valida
+T,U,T45,92.1,DIPTEROCARPACEAE,Shorea,Shorea_pauciflora
+T,U,T46,113,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+T,U,T47,76,DIPTEROCARPACEAE,Shorea,Shorea_faguetiana
+T,U,T48,41.2,DIPTEROCARPACEAE,Shorea,Shorea_symingtonii
+T,U,T49,43.1,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T50,34,DIPTEROCARPACEAE,Shorea,Shorea_leprosula
+T,U,T51,33.7,LAURACEAE,Beilschmiedia,Beilschmiedia_micrantha
+T,U,T52,47.2,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T53,40.3,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+T,U,T54,51,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T55,113.5,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+T,U,T56,68.8,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T57,65.6,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T58,168.1,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+T,U,T59,47.1,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T60,45.1,EBENACEAE,Diospyros,Diospyros_macrophylla
+T,U,T61,36.9,MELIACEAE,Reinwardtiodendron,Reinwardtiodendron_humile
+T,U,T62,52.6,EBENACEAE,Diospyros,Diospyros_macrophylla
+T,U,T63,50.9,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T64,168.1,FABACEAE (LEGUMINOSAE),Koompassia,Koompassia_excelsa
+T,U,T65,50.4,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T66,75.1,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
+T,U,T67,81.6,DIPTEROCARPACEAE,Shorea,Shorea_fallax
+T,U,T68,74.2,DIPTEROCARPACEAE,Shorea,Shorea_johorensis
+T,U,T69,45,EBENACEAE,Diospyros,Diospyros_macrophylla
+T,U,T70,30,DIPTEROCARPACEAE,Parashorea,Parashorea_malaanonan
+T,U,T71,47.5,LAURACEAE,Eusideroxylon,Eusideroxylon_zwageri
