@@ -1,0 +1,952 @@
+plot,type,tree,dbh,species,AGB
+A,logged,A1,32.4,Shorea_angustifolia,0.78869347
+A,logged,A2,35,Dipterocarpus_caudiferus,1.060892981
+A,logged,A3,32.5,Shorea_johorensis,0.794730432
+A,logged,A4,42.9,Shorea_parvifolia,1.574009693
+A,logged,A5,33.5,Shorea_parvifolia,0.856576433
+A,logged,A6,45,Lithocarpus_gracilis,2.019400282
+A,logged,A7,33.6,Shorea_parvifolia,0.862909335
+A,logged,A8,35.3,Shorea_parvifolia,0.974736471
+A,logged,A9,55,Dipterocarpus_caudiferus,3.205721421
+A,logged,A10,40,Dillenia_excelsa,1.394636868
+A,logged,A11,40,Madhuca_kingiana,1.501208193
+A,logged,A12,35,Shorea_parvifolia,0.95442716
+A,logged,A13,30,Macaranga _gigantea,0.663339899
+A,logged,A14,45,Lithocarpus_sp.4,2.019400282
+A,logged,A15,38.4,Vatica_dulitensis,1.431398909
+A,logged,A16,32.4,Macaranga _pearsonii,0.802717405
+A,logged,A17,32.3,Vatica_dulitensis,0.934178253
+A,logged,A18,84.7,Shorea_macrophylla,8.149878794
+A,logged,A19,40,Vatica_dulitensis,1.582414341
+A,logged,A20,37.5,Eugenia_kunstleri,1.378136412
+A,logged,A21,35.3,Knema_latericia,0.896731846
+A,logged,A22,46.4,Shorea_johorensis,1.906723377
+A,logged,A23,34.6,Shorea_parvifolia,0.927732836
+A,logged,A24,30.1,Shorea_parvifolia,0.657155281
+A,logged,A25,33.6,Shorea_angustifolia,0.862909335
+A,logged,A26,41.3,Mangifera_caesia,1.245757425
+A,logged,A27,65,Dipterocarpus_conformis,4.801305855
+A,logged,A28,43.7,Shorea_angustifolia,1.646831041
+A,logged,A29,44.8,Parashorea_malaanonan,1.667763865
+A,logged,A30,34.7,Castanopsis_motleyana,0.911827881
+A,logged,A31,38.5,Shorea_parvifolia,1.206963499
+A,logged,A32,30.4,Cleistanthus_paxii,0.746046684
+A,logged,A33,42.1,Shorea_fallax,1.503079556
+A,logged,A34,30.4,Macaranga _gigantea,0.685500385
+A,logged,A35,70,Shorea_johorensis,5.162954755
+A,logged,A36,70,Shorea_fallax,5.162954755
+A,logged,A37,34.9,Shorea_johorensis,0.947712412
+A,logged,A38,42,Shorea_johorensis,1.494345655
+A,logged,A39,49.8,Dryobalanops_lanceolata,2.426939003
+A,logged,A40,34.5,Parashorea_malaanonan,0.877806703
+A,logged,A41,33.7,Shorea_johorensis,0.869269321
+A,logged,A42,38.9,Shorea_johorensis,1.238022419
+A,logged,A43,38.3,Shorea_parvifolia,1.191604856
+A,logged,A44,61,Parashorea_malaanonan,3.531359183
+A,logged,A45,45,Castanopsis_motleyana,1.726555514
+A,logged,A46,45,Macaranga _gigantea,1.800689389
+A,logged,A47,60,Dipterocarpus_conformis,3.957683069
+A,logged,A48,65,Shorea_macrophylla,4.31947123
+A,logged,A49,70,Shorea_fallax,5.162954755
+A,logged,A50,38.7,Shorea_fallax,1.22243595
+A,logged,A51,60,Lithocarpus_gracilis,4.06396789
+A,logged,A52,65,Shorea_johorensis,4.31947123
+A,logged,A53,75,Shorea_macrophylla,6.092864873
+A,logged,A54,40,Shorea_agami,1.325795331
+A,logged,A55,46.5,Macaranga _pearsonii,1.95085376
+A,logged,A56,52.5,Dipterocarpus_caudiferus,2.863344089
+A,logged,A57,80,Shorea_macrophylla,7.110969761
+A,logged,A58,30.6,Barringtonia_sarcostachys,0.598778744
+A,logged,A59,35.3,Shorea_parvifolia,0.974736471
+A,logged,A60,35,Lithocarpus_gracilis,1.089383595
+B,logged,B1,45,Alangium_javanicum,1.95622899
+B,logged,B2,37.9,Macaranga _pearsonii,1.181876206
+B,logged,B3,50,Eugenia_fastigiata,2.78688214
+B,logged,B4,41.7,Macaranga _hypoleuca,1.494428389
+B,logged,B5,41.3,Macaranga _pearsonii,1.45952714
+B,logged,B6,42.7,Macaranga _hypoleuca,1.583769701
+B,logged,B7,33.4,Macaranga _pearsonii,0.865389436
+B,logged,B8,38,Macaranga _gigantea,1.189562155
+B,logged,B9,41.5,Dillenia_excelsa,1.526464448
+B,logged,B10,47.9,Dipterocarpus_caudiferus,2.290503455
+B,logged,B11,55,Nothaphoebe_sp.3,2.240665578
+B,logged,B12,48.7,Lithocarpus_sp.4,2.448928065
+B,logged,B13,60,Vitex_qurmaea,3.458839481
+B,logged,B14,35,Litsea_sp.8,0.713974947
+B,logged,B15,63.7,Shorea_gibbosa,4.114090605
+B,logged,B16,55.4,Dipterocarpus_caudiferus,3.262562478
+B,logged,B17,33.6,Macaranga _gigantea,0.878252919
+B,logged,B18,30,Eugenia_lineata,0.793952497
+B,logged,B19,55,Shorea_fallax,2.884011531
+B,logged,B20,45.4,Macaranga _hypoleuca,1.840057443
+B,logged,B21,36.2,Macaranga _gigantea,1.05559857
+B,logged,B22,33.7,Macaranga _pearsonii,0.884725993
+B,logged,B23,31.5,Macaranga _pearsonii,0.748638711
+B,logged,B24,42.1,Macaranga _pearsonii,1.529806149
+B,logged,B25,46.6,Macaranga _pearsonii,1.961111181
+B,logged,B26,34.6,Peltophorum_racemosum,0.939515043
+B,logged,B27,38.8,Macaranga _gigantea,1.252089646
+B,logged,B28,60,Shorea_parvifolia,3.560510134
+B,logged,B29,41.2,Shorea_parvifolia,1.425528455
+B,logged,B30,65,Shorea_fallax,4.31947123
+B,logged,B31,43.5,Shorea_gibbosa,1.628447741
+B,logged,B32,39.4,Hopea_nervosa,1.540226418
+B,logged,B33,31.5,Dipterocarpus_caudiferus,0.817610823
+B,logged,B34,38.5,Sympetalandra_borneensis,1.398525049
+B,logged,B35,51.2,Shorea_macrophylla,2.423652617
+B,logged,B36,68.5,Dialium_indum,6.648525654
+B,logged,B37,70,Macaranga _hypoleuca,5.254758408
+B,logged,B38,40.2,Macaranga _pearsonii,1.365992631
+B,logged,B39,38.5,Macaranga _pearsonii,1.228424787
+B,logged,B40,45,Teijsmanniodendron_bogoriense,1.688124828
+B,logged,B41,30,Nothaphoebe_sp.3,0.506362733
+B,logged,B42,35,Alangium_javanicum,1.055305276
+B,logged,B43,30,Macaranga _gigantea,0.663339899
+B,logged,B44,40.1,Madhuca_korthalsii,1.510438629
+B,logged,B45,45,Shorea_macrophylla,1.76923031
+B,logged,B46,35.4,Macaranga _gigantea,0.99901472
+B,logged,B47,35.8,Vatica_dulitensis,1.20446439
+B,logged,B48,30,Ryparosa_hullettii,0.652982932
+B,logged,B49,39,Macaranga _pearsonii,1.268011363
+B,logged,B50,33.2,Macaranga _hypoleuca,0.852635972
+B,logged,B51,31.1,Macaranga _hypoleuca,0.725304817
+B,logged,B52,34.4,Macaranga _hypoleuca,0.930811871
+B,logged,B53,34.5,Macaranga _hypoleuca,0.937506549
+B,logged,B54,38.3,Macaranga _hypoleuca,1.212793048
+B,logged,B55,40.5,Macaranga _hypoleuca,1.391147775
+B,logged,B56,35,Dehaasia_caesia,0.947807644
+B,logged,B57,30.3,Macaranga _hypoleuca,0.679920516
+B,logged,B58,40.3,Shorea_parvifolia,1.350337587
+C,logged,C1,47.2,Macaranga _hypoleuca,2.023306139
+C,logged,C2,38.4,Macaranga _hypoleuca,1.220594452
+C,logged,C3,33.3,Macaranga _hypoleuca,0.858998967
+C,logged,C4,40,Macaranga _pearsonii,1.349369594
+C,logged,C5,39.9,Macaranga _hypoleuca,1.341102116
+C,logged,C6,35,Macaranga _hypoleuca,0.971398043
+C,logged,C7,36.9,Macaranga _hypoleuca,1.106596022
+C,logged,C8,38.5,Macaranga _hypoleuca,1.228424787
+C,logged,C9,42.5,Macaranga _pearsonii,1.565662001
+C,logged,C10,31.5,Macaranga _hypoleuca,0.748638711
+C,logged,C11,42.4,Macaranga _hypoleuca,1.556653131
+C,logged,C12,30,Macaranga _hypoleuca,0.663339899
+C,logged,C13,95,Shorea_argentifolia,10.71041773
+C,logged,C14,36.6,Anisoptera_grossivenia,1.008918247
+C,logged,C15,44,Macaranga _hypoleuca,1.704406046
+C,logged,C16,30,Macaranga _pearsonii,0.663339899
+C,logged,C17,34.3,Macaranga _gigantea,0.924144998
+C,logged,C18,36.8,Macaranga _hypoleuca,1.099225329
+C,logged,C19,71.1,Parashorea_tomentella,5.107969978
+C,logged,C20,55,Lithocarpus_sp.4,3.291812076
+C,logged,C21,34,Macaranga _hypoleuca,0.90431091
+C,logged,C22,32.9,Macaranga _pearsonii,0.833711527
+C,logged,C23,69.1,Anisoptera_grossivenia,4.738490738
+C,logged,C24,39.9,Anisoptera_grossivenia,1.247557232
+C,logged,C25,34.5,Macaranga _pearsonii,0.937506549
+C,logged,C26,32.2,Macaranga _hypoleuca,0.790510349
+C,logged,C27,40.3,Macaranga _hypoleuca,1.374348241
+C,logged,C28,70,Parashorea_malaanonan,4.920138597
+C,logged,C29,35.4,Macaranga _hypoleuca,0.99901472
+C,logged,C30,50,Eugenia_sp.6,2.78688214
+C,logged,C31,46,Baccaurea_macrocarpa,1.991729832
+C,logged,C32,37.8,Vatica_albiramis,1.377014185
+C,logged,C33,36.4,Neo-uvaria_accuminatissima,1.07002722
+C,logged,C34,65,Parashorea_malaanonan,4.116324494
+C,logged,C35,55.2,Parashorea_malaanonan,2.772679782
+C,logged,C36,41.1,Madhuca_korthalsii,1.604545259
+C,logged,C37,61.2,Scorodocarpus_borneensis,4.553309175
+C,logged,C38,57.6,Shorea_parvifolia,3.22563287
+C,logged,C39,71.8,Shorea_johorensis,5.487670979
+C,logged,C40,41.2,Macaranga _pearsonii,1.450876096
+C,logged,C41,47.3,Macaranga _gigantea,2.033780578
+C,logged,C42,70,Shorea_parvifolia,5.162954755
+C,logged,C43,37.9,Macaranga _hypoleuca,1.181876206
+C,logged,C44,65,Parashorea_malaanonan,4.116324494
+C,logged,C45,40,Macaranga _hypoleuca,1.349369594
+C,logged,C46,40.7,Macaranga _hypoleuca,1.408065228
+C,logged,C47,31.9,Litsea_sp.2,0.567714266
+C,logged,C48,43.3,Macaranga _pearsonii,1.638814235
+C,logged,C49,32.5,Endospermum_diadenum,0.495672538
+C,logged,C50,42.4,Pentace_laxiflora,1.581474349
+C,logged,C51,35,Eugenia_sp.16,1.162667742
+C,logged,C52,40,Lithocarpus_nieuwenhuisii,1.513263395
+C,logged,C53,33.4,Canarium_denticulatum,0.707996837
+C,logged,C54,70.9,Shorea_agami,5.323907273
+C,logged,C55,33,Barringtonia_lanceolata,0.721890024
+C,logged,C56,34.6,Macaranga _pearsonii,0.944229061
+C,logged,C57,31.5,Macaranga _gigantea,0.748638711
+C,logged,C58,33.3,Shorea_johorensis,0.843991761
+C,logged,C59,33.9,Shorea_parvifolia,0.882070663
+C,logged,C60,75,Parashorea_malaanonan,5.80631461
+C,logged,C61,33.6,Macaranga _hypoleuca,0.878252919
+C,logged,C62,33.9,Macaranga _hypoleuca,0.897754959
+D,logged,D1,50,Lithocarpus_sp.2,2.611222086
+D,logged,D2,50.5,Shorea_macrophylla,2.343820935
+D,logged,D3,75,Shorea_macrophylla,6.092864873
+D,logged,D4,80,Shorea_superba,7.110969761
+D,logged,D5,60,Lithocarpus_sp.2,4.06396789
+D,logged,D6,45,Peltophorum_racemosum,1.791699535
+D,logged,D7,55,Parashorea_tomentella,2.74837513
+D,logged,D8,35,Macaranga _hypoleuca,0.971398043
+D,logged,D9,39.5,Horsfielda_sp.1,1.308325205
+D,logged,D10,67,Shorea_parvifolia,4.646612058
+D,logged,D11,36,Pentace_laxiflora,1.05788674
+D,logged,D12,35,Pentace_laxiflora,0.986887224
+D,logged,D13,35,Shorea_johorensis,0.95442716
+D,logged,D14,130,Koompassia_excelsa,28.26217773
+D,logged,D15,55,Shorea_johorensis,2.884011531
+D,logged,D16,34.9,Alangium_javanicum,1.047880813
+D,logged,D17,35,Hopea_nervosa,1.150721592
+D,logged,D18,34.7,Terminalia_subspathulata,1.003804324
+D,logged,D19,30,Aglaia_elliptica,0.740527324
+D,logged,D20,43.5,Shorea_macrophylla,1.628447741
+D,logged,D21,31.7,Parashorea_malaanonan,0.712040924
+D,logged,D22,54.7,Shorea_macrophylla,2.84599602
+D,logged,D23,85,Shorea_macrophylla,8.218917862
+D,logged,D24,40,Shorea_acuminatissima,1.325795331
+D,logged,D25,32.2,Macaranga _hypoleuca,0.790510349
+D,logged,D26,90,Shorea_macrophylla,9.418251396
+D,logged,D27,34.4,Shorea_macrophylla,0.914550052
+D,logged,D28,75,Shorea_macrophylla,6.092864873
+D,logged,D29,63,Parinari_oblongifolia,4.81644527
+D,logged,D30,44.9,Shorea_johorensis,1.759635393
+D,logged,D31,48.3,Shorea_johorensis,2.102847382
+D,logged,D32,31.5,Macaranga _hypoleuca,0.748638711
+D,logged,D33,45,Parashorea_tomentella,1.686022587
+D,logged,D34,37.9,Aglaia_elliptica,1.319401451
+D,logged,D35,42.3,Shorea_leprosula,1.520635456
+D,logged,D36,75,Shorea_superba,6.092864873
+D,logged,D37,42.5,Shorea_parvifolia,1.538308985
+D,logged,D38,40.3,Pentace_laxiflora,1.396262563
+D,logged,D39,32.5,Shorea_leprosula,0.794730432
+D,logged,D40,70,Shorea_johorensis,5.162954755
+D,logged,D41,40,Eugenia_sp.1,1.615062446
+D,logged,D42,50.8,Parashorea_malaanonan,2.266015556
+D,logged,D43,40,Ficus_benjamina,0.948945353
+D,logged,D44,30,Eugenia_kunstleri,0.793952497
+D,logged,D45,43.5,Shorea_superba,1.628447741
+D,logged,D46,55,Durio_kutejensis,2.703326099
+D,logged,D47,55.1,Shorea_superba,2.896747535
+D,logged,D48,47.9,Shorea_parvifolia,2.060640183
+D,logged,D49,36.2,Macaranga _hypoleuca,1.05559857
+D,logged,D50,33.2,Macaranga _hypoleuca,0.852635972
+D,logged,D51,33.8,Macaranga _hypoleuca,0.891226663
+D,logged,D52,35.4,Macaranga _pearsonii,0.99901472
+D,logged,D53,31.8,Macaranga _hypoleuca,0.766421591
+D,logged,D54,30,Macaranga _pearsonii,0.663339899
+D,logged,D55,49.5,Shorea_parvifolia,2.232427534
+D,logged,D56,32.3,Macaranga _hypoleuca,0.796600294
+D,logged,D57,75,Shorea_parvifolia,6.092864873
+D,logged,D58,51.6,Shorea_fallax,2.469960202
+D,logged,D59,35,Litsea_sp.3,0.713974947
+D,logged,D60,60.5,Parashorea_tomentella,3.461814428
+D,logged,D61,40,Macaranga _hypoleuca,1.349369594
+D,logged,D62,35,Macaranga _pearsonii,0.971398043
+D,logged,D63,40,Alangium_javanicum,1.465925181
+D,logged,D64,30.8,Polyalthia_sumatrana,0.663645297
+E,logged,E1,45.2,Macaranga _hypoleuca,1.82031218
+E,logged,E2,37.3,Aglaia_sp.6,1.268593684
+E,logged,E3,43.6,Lithocarpus_sp.4,1.869185388
+E,logged,E4,60,Parashorea_malaanonan,3.39305769
+E,logged,E5,30.7,Macaranga _pearsonii,0.702399447
+E,logged,E6,30,Macaranga _pearsonii,0.663339899
+E,logged,E7,39.3,Symplocos_fasciculata,1.169627865
+E,logged,E8,30.1,Macaranga _hypoleuca,0.668840306
+E,logged,E9,34.9,Macaranga _pearsonii,0.964563899
+E,logged,E10,48.5,Macaranga _pearsonii,2.161905196
+E,logged,E11,41.4,Macaranga _pearsonii,1.468207866
+E,logged,E12,37.2,Pentace_laxiflora,1.146879601
+E,logged,E13,46.8,Macaranga _pearsonii,1.981718854
+E,logged,E14,61,Shorea_parvifolia,3.705637012
+E,logged,E15,54.3,Macaranga _pearsonii,2.845469122
+E,logged,E16,80,Intsia_sp.1,8.262903961
+E,logged,E17,31.9,Endospermum_diadenum,0.473330662
+E,logged,E18,45,Macaranga _pearsonii,1.800689389
+E,logged,E19,49.6,Macaranga _pearsonii,2.283317848
+E,logged,E20,43.5,Macaranga _hypoleuca,1.657403534
+E,logged,E21,41,Macaranga _gigantea,1.433662953
+E,logged,E22,46.1,Macaranga _gigantea,1.910132982
+E,logged,E23,39.5,Macaranga _hypoleuca,1.308325205
+E,logged,E24,70,Intsia_palembanica,5.999322277
+E,logged,E25,55,Dryobalanops_lanceolata,3.089499649
+E,logged,E26,35,Macaranga _pearsonii,0.971398043
+E,logged,E27,46.9,Macaranga _pearsonii,1.992069149
+E,logged,E28,30.7,Macaranga _pearsonii,0.702399447
+E,logged,E29,33.5,Pleiocarpidia_sandahanica,0.87180741
+E,logged,E30,40.8,Macaranga _pearsonii,1.416568238
+E,logged,E31,60.1,Sindora _irpicina,3.638439716
+E,logged,E32,46.5,Macaranga _pearsonii,1.95085376
+E,logged,E33,41.4,Macaranga _hypoleuca,1.468207866
+E,logged,E34,38.5,Aglaia_elliptica,1.371366509
+E,logged,E35,37.3,Endospermum_diadenum,0.696366959
+E,logged,E36,40.4,Macaranga _pearsonii,1.382733281
+E,logged,E37,35,Macaranga _pearsonii,0.971398043
+E,logged,E38,33.4,Knema_cinerea,0.782226514
+E,logged,E39,47.2,Macaranga _pearsonii,2.023306139
+E,logged,E40,31.5,Canarium_denticulatum,0.612480136
+E,logged,E41,45,Pentace_laxiflora,1.829401825
+E,logged,E42,37,Macaranga _hypoleuca,1.113995236
+E,logged,E43,31.6,Callicarpa_longifolia,0.463376481
+E,logged,E44,60.4,Lophopetalum_beccarianum,3.280990492
+E,logged,E45,48,Mallotus_oblongifolius,1.810076532
+E,logged,E46,45.6,Macaranga _hypoleuca,1.859925362
+E,logged,E47,42,Macaranga _pearsonii,1.52091695
+E,logged,E48,32.2,Endospermum_diadenum,0.484426776
+E,logged,E49,53.9,Shorea_johorensis,2.746029686
+E,logged,E50,33,Shorea_johorensis,0.825317134
+E,logged,E51,30,Macaranga _hypoleuca,0.663339899
+E,logged,E52,35,Macaranga _pearsonii,0.971398043
+E,logged,E53,39.5,Macaranga _pearsonii,1.308325205
+E,logged,E54,35,Macaranga _hypoleuca,0.971398043
+F,logged,F1,40.1,Parashorea_malaanonan,1.271211054
+F,logged,F2,74.7,Shorea_parvifolia,6.034600184
+F,logged,F3,100,Koompassia_excelsa,15.22147959
+F,logged,F4,33,Barringtonia_sarcostachys,0.721890024
+F,logged,F5,33,Mastixia_trichotoma,0.672644828
+F,logged,F6,30.9,Pentace_laxiflora,0.725180393
+F,logged,F7,39.9,Macaranga _hypoleuca,1.341102116
+F,logged,F8,33.5,Macaranga _hypoleuca,0.87180741
+F,logged,F9,30.2,Barringtonia_lanceolata,0.57955167
+F,logged,F10,44.1,Macaranga _pearsonii,1.713897469
+F,logged,F11,37.4,Alangium_javanicum,1.242683528
+F,logged,F12,35,Alangium_javanicum,1.055305276
+F,logged,F13,65,Quercus_sp.1,5.114604799
+F,logged,F14,30,Eugenia_kunstleri,0.793952497
+F,logged,F15,40,Shorea_gibbosa,1.325795331
+F,logged,F16,38.3,Canarium_denticulatum,0.99221646
+F,logged,F17,51.5,Macaranga _pearsonii,2.502048421
+F,logged,F18,38.9,Parashorea_malaanonan,1.17979765
+F,logged,F19,90,Koompassia_excelsa,11.85106557
+F,logged,F20,31,Hopea_ferruginea,0.852367737
+F,logged,F21,30.5,Barringtonia_sarcostachys,0.593937731
+F,logged,F22,32.5,Shorea_parvifolia,0.794730432
+F,logged,F23,55,Scaphium_macropodum,2.447603947
+F,logged,F24,45,Alangium_javanicum,1.95622899
+F,logged,F25,37.7,Barringtonia_sarcostachys,1.002568935
+F,logged,F26,40,Teijsmanniodendron_bogoriense,1.265017903
+F,logged,F27,30.3,Macaranga _hypoleuca,0.679920516
+F,logged,F28,35.8,Lithocarpus_gracilis,1.151829723
+F,logged,F29,85,Azadirachta_excelsa,8.07946023
+F,logged,F30,70,Shorea_ovalis,5.162954755
+F,logged,F31,50,Irvingia_malayana,3.128640259
+F,logged,F32,39.5,Vatica_sarawakensis,1.534281324
+F,logged,F33,41.4,Macaranga _pearsonii,1.468207866
+F,logged,F34,45.5,Macaranga _pearsonii,1.849976059
+F,logged,F35,38.5,Macaranga _pearsonii,1.228424787
+F,logged,F36,45,Dillenia_excelsa,1.861097079
+F,logged,F37,32.8,Macaranga _hypoleuca,0.827458123
+F,logged,F38,37.6,Macaranga _hypoleuca,1.158991031
+F,logged,F39,44,Macaranga _hypoleuca,1.704406046
+F,logged,F40,34.9,Macaranga _pearsonii,0.964563899
+F,logged,F41,32,Macaranga _hypoleuca,0.778411828
+F,logged,F42,45,Macaranga _pearsonii,1.800689389
+F,logged,F43,38.2,Macaranga _pearsonii,1.205020549
+F,logged,F44,45.5,Macaranga _pearsonii,1.849976059
+F,logged,F45,40,Parashorea_malaanonan,1.263442561
+G,logged,G1,60,Parashorea_tomentella,3.39305769
+G,logged,G2,75,Shorea_leprosula,6.092864873
+G,logged,G3,30,Hopea_ferruginea,0.785794814
+G,logged,G4,43.8,Microcos_crassifolia,1.389221794
+G,logged,G5,36,Diospyros_macrophylla,1.183517686
+G,logged,G6,75,Hopea_ferruginea,7.345967778
+G,logged,G7,40,Alangium_javanicum,1.465925181
+G,logged,G8,48,Hopea_ferruginea,2.497112847
+G,logged,G9,45,Dysoxylon_alliaceum,1.800689389
+G,logged,G10,48,Endospermum_diadenum,1.291771537
+G,logged,G11,50,Pentace_laxiflora,2.365541143
+G,logged,G12,40,Pentace_laxiflora,1.370885625
+G,logged,G13,35,Hopea_ferruginea,1.150721592
+G,logged,G14,51,Parashorea_malaanonan,2.287781639
+G,logged,G15,40,Lophopetalum_beccarianum,1.202245622
+G,logged,G16,60,Lophopetalum_beccarianum,3.228709305
+G,logged,G17,43.2,Parashorea_tomentella,1.52579516
+G,logged,G18,32,Shorea_parvifolia,0.764812526
+G,logged,G19,40,Lithocarpus_gracilis,1.513263395
+G,logged,G20,30.2,Macaranga _gigantea,0.674367167
+G,logged,G21,43,Parashorea_tomentella,1.508559054
+G,logged,G22,61,Parashorea_tomentella,3.531359183
+G,logged,G23,64,Parashorea_tomentella,3.965287896
+G,logged,G24,53.5,Shorea_argentifolia,2.696812443
+G,logged,G25,52,Shorea_leprosula,2.516770828
+G,logged,G26,52,Parashorea_malaanonan,2.398405928
+G,logged,G27,38,Shorea_johorensis,1.168779819
+G,logged,G28,50.5,Parashorea_malaanonan,2.233589949
+G,logged,G29,65,Pentace_laxiflora,4.466376429
+G,logged,G30,35.5,Xanthophyllum_affine,1.181541092
+G,logged,G31,32.5,Hydnocarpus_woodii,0.854775341
+G,logged,G32,80,Shorea_parvifolia,7.110969761
+G,logged,G33,52,Pentace_laxiflora,2.602366194
+G,logged,G34,66,Macaranga _pearsonii,4.561026866
+G,logged,G35,37.5,Aglaia_silvestris,1.285401423
+G,logged,G36,31.5,Diospyros_macrophylla,0.85089929
+G,logged,G37,52,Shorea_parvifolia,2.516770828
+G,logged,G38,45,Parashorea_malaanonan,1.686022587
+G,logged,G39,50,Octomeles_sumatrana,1.24461612
+H,logged,H1,30.9,Dehaasia_caesia,0.696464097
+H,logged,H2,37,Lithocarpus_sp.3,1.249300577
+H,logged,H3,33.8,Shorea_laxa,0.87565642
+H,logged,H4,46.3,Alangium_javanicum,2.097178086
+H,logged,H5,85,Shorea_pauciflora,8.218917862
+H,logged,H6,30,Dehaasia_caesia,0.647230691
+H,logged,H7,36,Ochanostachys_amentacea,1.321084153
+H,logged,H8,70,Shorea_pauciflora,5.162954755
+H,logged,H9,55,Magnolia_candollii,2.524042115
+H,logged,H10,70,Dehaasia_caesia,5.127146614
+H,logged,H11,35,Castanopsis_hypophoenicea,0.931405859
+H,logged,H12,38,Macaranga _gigantea,1.189562155
+H,logged,H13,40,Shorea_leprosula,1.325795331
+H,logged,H14,44,Macaranga _pearsonii,1.704406046
+H,logged,H15,34.7,Macaranga _gigantea,0.950979437
+H,logged,H16,40.5,Macaranga _gigantea,1.391147775
+H,logged,H17,47,Macaranga _pearsonii,2.002450447
+H,logged,H18,40.5,Shorea_gibbosa,1.366843623
+H,logged,H19,52.9,Macaranga _pearsonii,2.670597415
+H,logged,H20,36.3,Hopea_nervosa,1.258995158
+H,logged,H21,32.9,Polyalthia_sumatrana,0.781386647
+H,logged,H22,30.3,Macaranga _hypoleuca,0.679920516
+H,logged,H23,38.2,Macaranga _gigantea,1.205020549
+H,logged,H24,33.6,Macaranga _hypoleuca,0.878252919
+H,logged,H25,110,Shorea_superba,15.15715754
+H,logged,H26,43.5,Dipterocarpus_caudiferus,1.810100185
+H,logged,H27,35.3,Madhuca_kingiana,1.103701561
+H,logged,H28,35,Pentace_laxiflora,0.986887224
+H,logged,H29,53.5,Shorea_gibbosa,2.696812443
+H,logged,H30,65,Parashorea_tomentella,4.116324494
+H,logged,H31,35,Lophopetalum_beccarianum,0.865484927
+H,logged,H32,33,Macaranga _hypoleuca,0.839992283
+H,logged,H33,40,Archidendron_sp.2,0.9459992
+H,logged,H34,31.5,Shorea_parvifolia,0.735559562
+H,logged,H35,58.4,Macaranga _hypoleuca,3.394465284
+H,logged,H36,38.5,Shorea_parvifolia,1.206963499
+H,logged,H37,31,Litsea_sp.27,0.528858774
+H,logged,H38,45,Macaranga _gigantea,1.800689389
+H,logged,H39,49,Macaranga _gigantea,2.216620773
+H,logged,H40,21.7,Shorea_parvifolia,0
+H,logged,H41,35.2,Shorea_parvifolia,0.96793916
+H,logged,H42,60,Shorea_parvifolia,3.560510134
+H,logged,H43,36,Shorea_laxa,1.023091405
+H,logged,H44,35,Alangium_javanicum,1.055305276
+H,logged,H45,33.9,Madhuca_kingiana,0.998775358
+H,logged,H46,40,Vatica_dulitensis,1.582414341
+H,logged,H47,45.3,Gluta _wallichii,1.830169491
+H,logged,H48,31.5,Shorea_johorensis,0.735559562
+H,logged,H49,76,Shorea_parvifolia,6.289375888
+H,logged,H50,51,Shorea_johorensis,2.400687065
+H,logged,H51,39.2,Microcos_crassifolia,1.058329548
+H,logged,H52,30,Hopea_nutans,0.785794814
+H,logged,H53,80,Shorea_parvifolia,7.110969761
+H,logged,H54,40,Shorea_parvifolia,1.325795331
+H,logged,H55,60,Madhuca_kingiana,4.031592857
+H,logged,H56,85,Durio_sp.1,7.703996645
+H,logged,H57,40.4,Shorea_parvifolia,1.358576135
+H,logged,H58,60,Shorea_argentifolia,3.560510134
+H,logged,H59,35,Macaranga _gigantea,0.971398043
+H,logged,H60,37,Macaranga _gigantea,1.113995236
+H,logged,H61,52,Dipterocarpus_caudiferus,2.797515221
+H,logged,H62,60,Shorea_pauciflora,3.560510134
+H,logged,H63,59.6,Shorea_gibbosa,3.503384086
+H,logged,H64,67,Shorea_laxa,4.646612058
+H,logged,H65,47.5,Endospermum_diadenum,1.259200668
+H,logged,H66,33.3,Canarium_denticulatum,0.702768634
+H,logged,H67,39.4,Macaranga _gigantea,1.300204097
+H,logged,H68,31.2,Macaranga _gigantea,0.731098035
+H,logged,H69,32.2,Macaranga _pearsonii,0.790510349
+H,logged,H70,42.1,Dysoxylon_sp.8,1.529806149
+H,logged,H71,32,Shorea_gibbosa,0.764812526
+H,logged,H72,33,Shorea_gibbosa,0.825317134
+H,logged,H73,34.6,Macaranga _pearsonii,0.944229061
+H,logged,H74,40,Dillenia_excelsa,1.394636868
+I,logged,I1,69.6,Shorea_leprosula,5.092319889
+I,logged,I2,53,Macaranga _pearsonii,2.682877927
+I,logged,I3,50,Eugenia_sp.23,2.78688214
+I,logged,I4,67,Parashorea_tomentella,4.428079736
+I,logged,I5,65,Parashorea_tomentella,4.116324494
+I,logged,I6,36.2,Diospyros_macrophylla,1.199788443
+I,logged,I7,60.1,Shorea_symingtonii,3.574874081
+I,logged,I8,31.4,Pterospermum_stapfianum,0.650338656
+I,logged,I9,39.8,Octomeles_sumatrana,0.712460915
+I,logged,I10,31.2,Octomeles_sumatrana,0.390796652
+I,logged,I11,53.2,Octomeles_sumatrana,1.447269558
+I,logged,I12,31,Macaranga _pearsonii,0.719538382
+I,logged,I13,30,Aglaia_odoratissima,0.740527324
+I,logged,I14,75,Parashorea_malaanonan,5.80631461
+I,logged,I15,60,Neesia_synandra,2.737532592
+I,logged,I16,35,Dillenia_excelsa,1.003985513
+I,logged,I17,31,Duabanga_moluccana,0.448461116
+I,logged,I18,37,Neolamarckia_cadamba,1.113995236
+I,logged,I19,35,Triomma_malaccensis,0.954558202
+I,logged,I20,45,Parashorea_tomentella,1.686022587
+I,logged,I21,45,Octomeles_sumatrana,0.962529444
+I,logged,I22,34,Paranephelium_xestophyllum,1.224783065
+I,logged,I23,70,Parashorea_tomentella,4.920138597
+I,logged,I24,40,Eugenia_sp.23,1.615062446
+I,logged,I25,45,Macaranga _pearsonii,1.800689389
+I,logged,I26,54.5,Neolamarckia_cadamba,2.870970075
+I,logged,I27,43.5,Duabanga_moluccana,1.032997068
+I,logged,I28,60,Aglaia_tomentosa,4.045494628
+J,logged,J1,70.2,Octomeles_sumatrana,2.828173151
+J,logged,J2,35,Endospermum_diadenum,0.59527522
+J,logged,J3,50,Octomeles_sumatrana,1.24461612
+J,logged,J4,36.4,Endospermum_diadenum,0.655715434
+J,logged,J5,35,Endospermum_diadenum,0.59527522
+J,logged,J6,45,Octomeles_sumatrana,0.962529444
+J,logged,J7,65,Octomeles_sumatrana,2.349958747
+J,logged,J8,60,Parashorea_malaanonan,3.39305769
+J,logged,J9,38.9,Octomeles_sumatrana,0.673531888
+J,logged,J10,30.4,Endospermum_diadenum,0.4200764
+J,logged,J11,32.5,Macaranga _gigantea,0.808861712
+J,logged,J12,52.5,Octomeles_sumatrana,1.401439669
+J,logged,J13,50,Shorea_gibbosa,2.287735275
+J,logged,J14,55,Litsea_sp.32,2.157432296
+J,logged,J15,44.4,Octomeles_sumatrana,0.931454113
+J,logged,J16,50,Macaranga _pearsonii,2.328414008
+J,logged,J17,55,Octomeles_sumatrana,1.569013373
+J,logged,J18,35,Parashorea_tomentella,0.909540008
+J,logged,J19,41.8,Macaranga _pearsonii,1.503228094
+J,logged,J20,40.1,Macaranga _gigantea,1.357666424
+J,logged,J21,34.2,Shorea_parvifolia,0.901476544
+J,logged,J22,40,Nephelium_ramboutan-ake,1.728725654
+J,logged,J23,49,Canarium_odontophyllum,1.813473139
+K,logged,K1,40,Pentace_laxiflora,1.370885625
+K,logged,K2,30.3,Parashorea_malaanonan,0.636623592
+K,logged,K3,49.4,Castanopsis_motleyana,2.167876309
+K,logged,K4,110,Shorea_argentifolia,15.15715754
+K,logged,K5,47.5,Shorea_parvifolia,2.018923814
+K,logged,K6,31.4,Barringtonia_lanceolata,0.638332778
+K,logged,K7,34.1,Parashorea_malaanonan,0.852889338
+K,logged,K8,34.3,Pentace_laxiflora,0.938880717
+K,logged,K9,34,Chisocheton_sarawakanus,0.77884742
+K,logged,K10,43,Homalium_foetidum,1.861953493
+K,logged,K11,40,Eugenia_chrysantha,1.615062446
+K,logged,K12,35,Lithocarpus_leptogyne,1.089383595
+K,logged,K13,56.4,Shorea_parvifolia,3.06524477
+K,logged,K14,31.9,Pentace_laxiflora,0.784719349
+K,logged,K15,47.6,Lithocarpus_gracilis,2.316251895
+K,logged,K16,55,Shorea_leprosula,2.884011531
+K,logged,K17,31.3,Glochidion_rubrum,0.69464635
+K,logged,K18,45,Dysoxylon_alliaceum,1.800689389
+K,logged,K19,39.5,Cryptocarya_erectinervia,1.240879552
+K,logged,K20,80,Shorea_parvifolia,7.110969761
+K,logged,K21,39.7,Lophopetalum_beccarianum,1.180225801
+K,logged,K22,38,Eugenia_chrysantha,1.423788687
+K,logged,K23,36.3,Cryptocarya_sp.3,1.008010235
+K,logged,K24,58.5,Shorea_parvifolia,3.349000189
+K,logged,K25,44,Dipterocarpus_caudiferus,1.861433039
+K,logged,K26,45,Macaranga _hypoleuca,1.800689389
+K,logged,K27,40,Dipterocarpus_caudiferus,1.473687066
+K,logged,K28,40,Pentace_laxiflora,1.370885625
+K,logged,K29,55,Shorea_parvifolia,2.884011531
+K,logged,K30,65,Parashorea_malaanonan,4.116324494
+L,unlogged,L1,60,Shorea_johorensis,3.560510134
+L,unlogged,L2,55,Shorea_parvifolia,2.884011531
+L,unlogged,L3,85,Shorea_johorensis,8.218917862
+L,unlogged,L4,44.2,Lithocarpus_leptogyne,1.932744952
+L,unlogged,L5,80,Shorea_johorensis,7.110969761
+L,unlogged,L6,45,Peltophorum_racemosum,1.791699535
+L,unlogged,L7,35.9,Barringtonia_sarcostachys,0.888764758
+L,unlogged,L8,50,Peltophorum_racemosum,2.316789514
+L,unlogged,L9,45,Dysoxylon_sp.4,1.800689389
+L,unlogged,L10,90,Shorea_argentifolia,9.418251396
+L,unlogged,L11,30,Eugenia_sp.6,0.793952497
+L,unlogged,L12,60,Shorea_johorensis,3.560510134
+L,unlogged,L13,65,Shorea_argentifolia,4.31947123
+L,unlogged,L14,49.5,Lithocarpus_leptogyne,2.548093804
+L,unlogged,L15,76.4,Shorea_parvifolia,6.368971222
+L,unlogged,L16,47.9,Castanopsis_hypophoenicea,2.010936423
+L,unlogged,L17,56.9,Lithocarpus_leptogyne,3.574301398
+L,unlogged,L18,85,Shorea_johorensis,8.218917862
+L,unlogged,L19,45,Parashorea_malaanonan,1.686022587
+L,unlogged,L20,50,Litsea_gracilis,1.711378028
+L,unlogged,L21,100,Koompassia_excelsa,15.22147959
+L,unlogged,L22,65,Parashorea_malaanonan,4.116324494
+L,unlogged,L23,70,Shorea_johorensis,5.162954755
+L,unlogged,L24,38.5,Shorea_fallax,1.206963499
+L,unlogged,L25,38.2,Xanthophyllum_affine,1.415304949
+L,unlogged,L26,37,Shorea_johorensis,1.094533098
+L,unlogged,L27,65,Shorea_fallax,4.31947123
+L,unlogged,L28,50,Shorea_fallax,2.287735275
+L,unlogged,L29,70,Shorea_fallax,5.162954755
+L,unlogged,L30,30,Xanthophyllum_affine,0.779097288
+L,unlogged,L31,53.1,Pentace_laxiflora,2.738166198
+L,unlogged,L32,30,Cryptocarya_sp.4,0.629143972
+L,unlogged,L33,72.7,Dipterocarpus_caudiferus,6.284985512
+L,unlogged,L34,80,Shorea_argentifolia,7.110969761
+L,unlogged,L35,58.8,Artocarpus_dadak,2.868749155
+L,unlogged,L36,85,Koompassia_excelsa,10.34193402
+L,unlogged,L37,45,Gironniera_nervosa,1.433183785
+L,unlogged,L38,50,Shorea_fallax,2.287735275
+L,unlogged,L39,65,Shorea_johorensis,4.31947123
+L,unlogged,L40,80,Shorea_parvifolia,7.110969761
+L,unlogged,L41,80,Shorea_argentifolia,7.110969761
+L,unlogged,L42,38.9,Xanthophyllum_vitellinum,1.479920944
+L,unlogged,L43,69.5,Shorea_johorensis,5.0747475
+L,unlogged,L44,55,Ficus_benjamina,2.064247231
+L,unlogged,L45,55,Alstonia_angustiloba,2.336563981
+L,unlogged,L46,36,Dehaasia_caesia,1.015995662
+L,unlogged,L47,43.6,Lithocarpus_leptogyne,1.869185388
+L,unlogged,L48,35.6,Pentace_laxiflora,1.029143925
+L,unlogged,L49,90,Shorea_johorensis,9.418251396
+L,unlogged,L50,35.3,Lophopetalum_beccarianum,0.88390163
+L,unlogged,L51,40.3,Shorea_parvifolia,1.350337587
+L,unlogged,L52,45,Canarium_odontophyllum,1.473189225
+L,unlogged,L53,30,Shorea_johorensis,0.651750969
+L,unlogged,L54,30,Eugenia_sp.6,0.793952497
+L,unlogged,L55,60,Shorea_argentifolia,3.560510134
+M,unlogged,M1,42.9,Parashorea_malaanonan,1.499983287
+M,unlogged,M2,65,Santiria_tomentosa,4.306204983
+M,unlogged,M3,40,Shorea_johorensis,1.325795331
+M,unlogged,M4,35,Eugenia_fastigiata,1.162667742
+M,unlogged,M5,40,Polyalthia_sumatrana,1.264681305
+M,unlogged,M6,44.4,Shorea_johorensis,1.712110585
+M,unlogged,M7,32.5,Shorea_johorensis,0.794730432
+M,unlogged,M8,65,Koompassia_excelsa,5.435227264
+M,unlogged,M9,80,Shorea_johorensis,7.110969761
+M,unlogged,M10,30,Santiria_tomentosa,0.649749268
+M,unlogged,M11,30.7,Shorea_johorensis,0.690128125
+M,unlogged,M12,34.5,Dillenia_excelsa,0.968957062
+M,unlogged,M13,50,Eugenia_fastigiata,2.78688214
+M,unlogged,M14,33.6,Aglaia_macrocarpa,0.980448011
+M,unlogged,M15,100,Shorea_johorensis,12.09677902
+M,unlogged,M16,70,Palaquium_rostratum,4.957073403
+M,unlogged,M17,49.5,Macaranga _hypoleuca,2.272122827
+M,unlogged,M18,80,Shorea_parvifolia,7.110969761
+M,unlogged,M19,33.5,Polyalthia_sumatrana,0.81709158
+M,unlogged,M20,38.4,Parashorea_malaanonan,1.142867742
+M,unlogged,M21,40,Microcos_crassifolia,1.11216723
+M,unlogged,M22,90,Shorea_johorensis,9.418251396
+M,unlogged,M23,75,Shorea_parvifolia,6.092864873
+M,unlogged,M24,80,Shorea_parvifolia,7.110969761
+N,unlogged,N1,36,Alangium_javanicum,1.131226984
+N,unlogged,N2,45,Eugenia_sp.6,2.155247771
+N,unlogged,N3,45,Shorea_leprosula,1.76923031
+N,unlogged,N4,40,Parashorea_tomentella,1.263442561
+N,unlogged,N5,32.9,Diospyros_macrophylla,0.947592659
+N,unlogged,N6,39,Shorea_gibbosa,1.245858475
+N,unlogged,N7,54,Parashorea_malaanonan,2.628684194
+N,unlogged,N8,40,Pterospermum_stapfianum,1.181460175
+N,unlogged,N9,35,Chisocheton_sarawakanus,0.836626929
+N,unlogged,N10,75,Parashorea_tomentella,5.80631461
+N,unlogged,N11,125,Parashorea_tomentella,19.52079365
+N,unlogged,N12,42,Parashorea_tomentella,1.424065886
+N,unlogged,N13,45,Parashorea_malaanonan,1.686022587
+N,unlogged,N14,37.5,Lophopetalum_beccarianum,1.025878889
+N,unlogged,N15,70,Shorea_falciferoides,5.162954755
+N,unlogged,N16,40,Xanthophyllum_ecarinatum,1.584843898
+N,unlogged,N17,80,Parashorea_tomentella,6.776537553
+N,unlogged,N18,30,Chisocheton_sarawakanus,0.571308565
+N,unlogged,N19,45,Aglaia_macrocarpa,2.010220851
+N,unlogged,N20,40,Aglaia_macrocarpa,1.506384671
+N,unlogged,N21,30,Polyalthia_sp.9,0.621707776
+N,unlogged,N22,75,Shorea_gibbosa,6.092864873
+N,unlogged,N23,45,Eugenia_sp.24,2.155247771
+N,unlogged,N24,35,Alangium_javanicum,1.055305276
+N,unlogged,N25,45,Nothaphoebe_umbelliflora,1.374562276
+N,unlogged,N26,30,Santiria_tomentosa,0.649749268
+N,unlogged,N27,45,Barringtonia_sarcostachys,1.547513868
+N,unlogged,N28,38.5,Parashorea_tomentella,1.150199446
+N,unlogged,N29,90,Shorea_faguetiana,9.418251396
+N,unlogged,N30,38,Shorea_leprosula,1.168779819
+N,unlogged,N31,30,Chisocheton_sarawakanus,0.571308565
+N,unlogged,N32,38,Diospyros_frutescens,1.352050833
+N,unlogged,N33,34.7,Shorea_gibbosa,0.934365279
+N,unlogged,N34,51.1,Parashorea_malaanonan,2.298709441
+N,unlogged,N35,42.4,Shorea_leprosula,1.529457505
+N,unlogged,N36,30.7,Chisocheton_ceramicus,0.604949018
+N,unlogged,N37,40,Eugenia_fastigiata,1.615062446
+N,unlogged,N38,33.5,Alangium_javanicum,0.947112222
+N,unlogged,N39,56.1,Parashorea_malaanonan,2.883568547
+N,unlogged,N40,35,Scaphium_macropodum,0.810003586
+N,unlogged,N41,118.1,Parashorea_malaanonan,17.07961667
+N,unlogged,N42,72,Chisocheton_beccarianus,4.842590678
+O,unlogged,O1,30,Castanopsis_hypophoenicea,0.636030382
+O,unlogged,O2,90,Shorea_faguetiana,9.418251396
+O,unlogged,O3,45,Nephelium_ramboutan-ake,2.306927588
+O,unlogged,O4,35.6,Eugenia_chrysantha,1.212451043
+O,unlogged,O5,50,Alstonia_angustiloba,1.85347381
+O,unlogged,O6,60,Parashorea_malaanonan,3.39305769
+O,unlogged,O7,62,Sterculia_cordata,2.75411561
+O,unlogged,O8,57.2,Parashorea_malaanonan,3.022486368
+O,unlogged,O9,33,Shorea_johorensis,0.825317134
+O,unlogged,O10,42,Shorea_symingtonii,1.494345655
+O,unlogged,O11,40,Aglaia_silvestris,1.506384671
+O,unlogged,O12,75,Parashorea_malaanonan,5.80631461
+O,unlogged,O13,52.3,Shorea_parvifolia,2.552209683
+O,unlogged,O14,80,Shorea_parvifolia,7.110969761
+O,unlogged,O15,38.9,Parashorea_tomentella,1.17979765
+O,unlogged,O16,45,Myristica_sp.1,1.420900842
+O,unlogged,O17,95,Parashorea_malaanonan,10.20670181
+O,unlogged,O18,45,Shorea_gibbosa,1.76923031
+O,unlogged,O19,45,Castanopsis_motleyana,1.726555514
+O,unlogged,O20,90,Parashorea_tomentella,8.975306661
+O,unlogged,O21,39,Shorea_parvifolia,1.245858475
+O,unlogged,O22,31.5,Aglaia_elliptica,0.83575166
+O,unlogged,O23,31,Alangium_javanicum,0.781690529
+O,unlogged,O24,50,Shorea_parvifolia,2.287735275
+O,unlogged,O25,36,Xanthophyllum_affine,1.222994329
+O,unlogged,O26,75,Litsea_sp.4,4.557867856
+O,unlogged,O27,50,Eugenia_fastigiata,2.78688214
+O,unlogged,O28,31,Parashorea_tomentella,0.673718616
+O,unlogged,O29,90,Parashorea_tomentella,8.975306661
+O,unlogged,O30,36.5,Canarium_denticulatum,0.881353188
+O,unlogged,O31,31,Parashorea_malaanonan,0.673718616
+O,unlogged,O32,41.4,Parashorea_tomentella,1.374713285
+O,unlogged,O33,80,Shorea_parvifolia,7.110969761
+O,unlogged,O34,40,Parashorea_tomentella,1.263442561
+O,unlogged,O35,45,Shorea_johorensis,1.76923031
+O,unlogged,O36,70,Parashorea_tomentella,4.920138597
+O,unlogged,O37,100,Parashorea_tomentella,11.52786189
+P,unlogged,P1,80,Shorea_parvifolia,7.110969761
+P,unlogged,P2,80,Parashorea_malaanonan,6.776537553
+P,unlogged,P3,51.1,Polyalthia_rumphii,2.300963214
+P,unlogged,P4,65,Shorea_gibbosa,4.31947123
+P,unlogged,P5,80,Parashorea_tomentella,6.776537553
+P,unlogged,P6,50,Parashorea_tomentella,2.180142023
+P,unlogged,P7,45,Parashorea_malaanonan,1.686022587
+P,unlogged,P8,56.9,Dryobalanops_lanceolata,3.354627379
+P,unlogged,P9,50,Pentace_laxiflora,2.365541143
+P,unlogged,P10,47,Sympetalandra_borneensis,2.279730221
+P,unlogged,P11,55,Shorea_leprosula,2.884011531
+P,unlogged,P12,49.6,Dryobalanops_lanceolata,2.40327293
+P,unlogged,P13,90,Shorea_johorensis,9.418251396
+P,unlogged,P14,71.8,Dryobalanops_lanceolata,5.878671906
+P,unlogged,P15,38.6,Dryobalanops_lanceolata,1.301232794
+P,unlogged,P16,92.5,Shorea_johorensis,10.05264343
+P,unlogged,P17,40,Pentace_laxiflora,1.370885625
+P,unlogged,P18,37,Ludekia_borneensis,1.113995236
+P,unlogged,P19,80,Parashorea_malaanonan,6.776537553
+P,unlogged,P20,76.5,Shorea_johorensis,6.388958699
+P,unlogged,P21,65,Ficus_sp.3,3.091685464
+P,unlogged,P22,80,Shorea_johorensis,7.110969761
+P,unlogged,P23,44,Parashorea_malaanonan,1.595870508
+P,unlogged,P24,45,Parashorea_malaanonan,1.686022587
+P,unlogged,P25,35,Diospyros_macrophylla,1.104086514
+P,unlogged,P26,45,Shorea_parvifolia,1.76923031
+P,unlogged,P27,80,Shorea_agami,7.110969761
+P,unlogged,P28,60,Shorea_johorensis,3.560510134
+P,unlogged,P29,30,Chionanthus_pluriflorus,0.741076165
+P,unlogged,P30,70,Shorea_johorensis,5.162954755
+P,unlogged,P31,90,Shorea_pauciflora,9.418251396
+P,unlogged,P32,70,Shorea_pauciflora,5.162954755
+P,unlogged,P33,40,Diospyros_macrophylla,1.533687228
+P,unlogged,P34,60,Shorea_johorensis,3.560510134
+P,unlogged,P35,100,Koompassia_excelsa,15.22147959
+P,unlogged,P36,55,Sympetalandra_borneensis,3.341743451
+P,unlogged,P37,43,Shorea_johorensis,1.583008687
+P,unlogged,P38,61,Shorea_parvifolia,3.705637012
+P,unlogged,P39,30,Castanopsis_hypophoenicea,0.636030382
+P,unlogged,P40,36.9,Shorea_johorensis,1.087263153
+P,unlogged,P41,30,Artocarpus_dadak,0.55142121
+Q,unlogged,Q1,47,Shorea_parvifolia,1.967466486
+Q,unlogged,Q2,34.8,Eugenia_sp.6,1.146341604
+Q,unlogged,Q3,35.1,Parashorea_malaanonan,0.915965157
+Q,unlogged,Q4,74.7,Parashorea_tomentella,5.750790136
+Q,unlogged,Q5,88.1,Shorea_gibbosa,8.951645415
+Q,unlogged,Q6,109.1,Parashorea_malaanonan,14.16668538
+Q,unlogged,Q7,116.1,Parashorea_malaanonan,16.40593025
+Q,unlogged,Q8,43.9,Parashorea_malaanonan,1.587011899
+Q,unlogged,Q9,46.9,Diospyros_macrophylla,2.264176565
+Q,unlogged,Q10,48,Shorea_parvifolia,2.071145914
+Q,unlogged,Q11,31.8,Parashorea_tomentella,0.717616331
+Q,unlogged,Q12,102.1,Shorea_gibbosa,12.70745137
+Q,unlogged,Q13,68.2,Parashorea_tomentella,4.621369245
+Q,unlogged,Q14,65.7,Parashorea_tomentella,4.223966525
+Q,unlogged,Q15,38.3,Parashorea_tomentella,1.135563126
+Q,unlogged,Q16,83.9,Shorea_johorensis,7.967380676
+Q,unlogged,Q17,39.1,Shorea_parvifolia,1.253723114
+Q,unlogged,Q18,33.3,Canarium_denticulatum,0.702768634
+Q,unlogged,Q19,30.6,Parashorea_tomentella,0.652371851
+Q,unlogged,Q20,33.3,Nephelium_ramboutan-ake,1.100494303
+Q,unlogged,Q21,34.8,Alangium_javanicum,1.040486717
+Q,unlogged,Q22,33.9,Parashorea_malaanonan,0.84058647
+Q,unlogged,Q23,51.3,Parashorea_tomentella,2.320654663
+Q,unlogged,Q24,43.5,Alangium_javanicum,1.800566417
+Q,unlogged,Q25,30.1,Alangium_javanicum,0.726613265
+Q,unlogged,Q26,32.9,Polyalthia_rumphii,0.781386647
+Q,unlogged,Q27,31.3,Canthium_sp.1,0.7848669
+Q,unlogged,Q28,47.3,Chisocheton_granatum,1.751615222
+Q,unlogged,Q29,91.1,Shorea_argentifolia,9.694514145
+Q,unlogged,Q30,32.6,Canthium_sp.1,0.868064774
+Q,unlogged,Q31,30,Aglaia_silvestris,0.740527324
+Q,unlogged,Q32,37.4,Diospyros_macrophylla,1.300126283
+Q,unlogged,Q33,30.9,Shorea_gibbosa,0.701328222
+Q,unlogged,Q34,62.7,Parashorea_tomentella,3.773732748
+Q,unlogged,Q35,43.6,Parashorea_tomentella,1.560606291
+Q,unlogged,Q36,97,Pometia_pinnata,12.56194153
+Q,unlogged,Q37,34.8,Parashorea_tomentella,0.89676828
+Q,unlogged,Q38,51.3,Parinari_oblongifolia,2.927944403
+Q,unlogged,Q39,95.9,Shorea_parvifolia,10.9529729
+Q,unlogged,Q40,58.7,Parinari_oblongifolia,4.060069004
+Q,unlogged,Q41,79.4,Shorea_parvifolia,6.984084915
+Q,unlogged,Q42,42.2,Microcos_crassifolia,1.268236504
+Q,unlogged,Q43,96.9,Parashorea_tomentella,10.69810043
+Q,unlogged,Q44,43.11,Nephelium_ramboutan-ake,2.077062112
+Q,unlogged,Q45,47.4,Dimocarpus_longan,2.375813071
+Q,unlogged,Q46,110.5,Koompassia_excelsa,19.27775693
+Q,unlogged,Q47,30.6,Eugenia_fastigiata,0.833928909
+Q,unlogged,Q48,58.7,Parashorea_tomentella,3.217963448
+Q,unlogged,Q49,55.3,Artocarpus_anisophyllus,2.472458117
+Q,unlogged,Q50,35.3,Lithocarpus_leptogyne,1.112564652
+Q,unlogged,Q51,56.7,Dialium_indum,4.212074001
+Q,unlogged,Q52,108.7,Shorea_gibbosa,14.73737046
+Q,unlogged,Q53,48.9,Dialium_hydnocarpoides,2.939835861
+Q,unlogged,Q54,136.6,Koompassia_excelsa,31.74126555
+Q,unlogged,Q55,37.1,Aglaia_silvestris,1.251913801
+R,unlogged,R1,80,Parashorea_tomentella,6.776537553
+R,unlogged,R2,46.5,Lophopetalum_beccarianum,1.738148986
+R,unlogged,R3,75,Shorea_parvifolia,6.092864873
+R,unlogged,R4,45,Eugenia_fastigiata,2.155247771
+R,unlogged,R5,31.6,Lophopetalum_beccarianum,0.672270721
+R,unlogged,R6,100,Shorea_argentifolia,12.09677902
+R,unlogged,R7,95,Shorea_johorensis,10.71041773
+R,unlogged,R8,33.7,Knema_laurina,0.79970485
+R,unlogged,R9,50,Vitex_qurmaea,2.22240881
+R,unlogged,R10,40,Shorea_johorensis,1.325795331
+R,unlogged,R11,44.9,Shorea_parvifolia,1.759635393
+R,unlogged,R12,38,Hydnocarpus_woodii,1.257085582
+R,unlogged,R13,40,Lithocarpus_gracilis,1.513263395
+R,unlogged,R14,65,Shorea_leprosula,4.31947123
+R,unlogged,R15,35,Hopea_nervosa,1.150721592
+R,unlogged,R16,32.2,Pterospermum_stapfianum,0.692142834
+R,unlogged,R17,75,Shorea_johorensis,6.092864873
+R,unlogged,R18,32.3,Lophopetalum_beccarianum,0.709745662
+R,unlogged,R19,75,Shorea_johorensis,6.092864873
+R,unlogged,R20,49.5,Hopea_nervosa,2.691564817
+R,unlogged,R21,30,Hopea_nervosa,0.785794814
+R,unlogged,R22,40,Hydnocarpus_woodii,1.425964213
+R,unlogged,R23,65,Parashorea_malaanonan,4.116324494
+R,unlogged,R24,50,Shorea_johorensis,2.287735275
+R,unlogged,R25,85,Parashorea_malaanonan,7.83237834
+R,unlogged,R26,35,Eugenia_sp.1,1.162667742
+R,unlogged,R27,100,Parashorea_malaanonan,11.52786189
+R,unlogged,R28,48.6,Lithocarpus_gracilis,2.436691036
+R,unlogged,R29,40,Chisocheton_sarawakanus,1.16215896
+R,unlogged,R30,42.3,Parashorea_tomentella,1.449119265
+R,unlogged,R31,45.1,Lophopetalum_beccarianum,1.613085296
+R,unlogged,R32,36.3,Zizyphus_angustifolius,1.062798718
+R,unlogged,R33,100,Koompassia_excelsa,15.22147959
+R,unlogged,R34,75,Hopea_nervosa,7.345967778
+R,unlogged,R35,40,Pometia_pinnata,1.479934001
+R,unlogged,R36,37,Diospyros_frutescens,1.266161824
+R,unlogged,R37,80,Shorea_johorensis,7.110969761
+R,unlogged,R38,47.6,Shorea_johorensis,2.029306966
+R,unlogged,R39,36.6,Lophopetalum_beccarianum,0.966317024
+R,unlogged,R40,32.2,Lophopetalum_beccarianum,0.704319714
+R,unlogged,R41,32.1,Pterospermum_stapfianum,0.686834452
+S,unlogged,S1,30.8,Canarium_odontophyllum,0.579302723
+S,unlogged,S2,60,Shorea_johorensis,3.560510134
+S,unlogged,S3,33.2,Diospyros_macrophylla,0.969102095
+S,unlogged,S4,34.4,Parashorea_tomentella,0.871538338
+S,unlogged,S5,75,Shorea_johorensis,6.092864873
+S,unlogged,S6,35,Diospyros_macrophylla,1.104086514
+S,unlogged,S7,130,Shorea_pauciflora,22.46045246
+S,unlogged,S8,55,Ludekia_borneensis,2.935292785
+S,unlogged,S9,39.5,Chionanthus_pluriflorus,1.461646778
+S,unlogged,S10,65,Shorea_johorensis,4.31947123
+S,unlogged,S11,80,Shorea_johorensis,7.110969761
+S,unlogged,S12,30,Nephelium_maingayi,0.849828472
+S,unlogged,S13,57.6,Shorea_johorensis,3.22563287
+S,unlogged,S14,78,Shorea_johorensis,6.69303642
+S,unlogged,S15,30.9,Aquilaria_malaccensis,0.424121891
+S,unlogged,S16,100,Shorea_johorensis,12.09677902
+S,unlogged,S17,32.5,Nephelium_ramboutan-ake,1.036261672
+S,unlogged,S18,55,Parashorea_malaanonan,2.74837513
+S,unlogged,S19,31,Aglaia_silvestris,0.803265164
+S,unlogged,S20,46.5,Shorea_johorensis,1.916771222
+S,unlogged,S21,56,Parashorea_malaanonan,2.871124685
+S,unlogged,S22,33.2,Shorea_johorensis,0.837739931
+S,unlogged,S23,70,Shorea_parvifolia,5.162954755
+S,unlogged,S24,34.5,Chionanthus_pluriflorus,1.047372183
+S,unlogged,S25,35,Shorea_johorensis,0.95442716
+S,unlogged,S26,31,Shorea_johorensis,0.706967632
+S,unlogged,S27,36,Parashorea_malaanonan,0.974974942
+S,unlogged,S28,54,Parashorea_malaanonan,2.628684194
+S,unlogged,S29,145,Shorea_johorensis,29.00436814
+S,unlogged,S30,50,Peltophorum_racemosum,2.316789514
+S,unlogged,S31,32.5,Chionanthus_pluriflorus,0.903651562
+S,unlogged,S32,40,Shorea_johorensis,1.325795331
+S,unlogged,S33,100,Shorea_johorensis,12.09677902
+S,unlogged,S34,55.5,Parashorea_malaanonan,2.809366469
+S,unlogged,S35,32.2,Parashorea_malaanonan,0.740171132
+S,unlogged,S36,95,Shorea_johorensis,10.71041773
+S,unlogged,S37,40.5,Shorea_johorensis,1.366843623
+S,unlogged,S38,69,Shorea_johorensis,4.987402784
+S,unlogged,S39,45,Diospyros_macrophylla,2.046655216
+S,unlogged,S40,44.4,Shorea_johorensis,1.712110585
+S,unlogged,S41,70,Durio_kutejensis,4.839491863
+S,unlogged,S42,80,Shorea_johorensis,7.110969761
+S,unlogged,S43,40.6,Castanopsis_motleyana,1.34197095
+S,unlogged,S44,45,Shorea_johorensis,1.76923031
+S,unlogged,S45,34.1,Parashorea_malaanonan,0.852889338
+S,unlogged,S46,90,Shorea_johorensis,9.418251396
+S,unlogged,S47,55,Shorea_gibbosa,2.884011531
+S,unlogged,S48,40,Canarium_denticulatum,1.103953163
+T,unlogged,T1,46.1,Diospyros_macrophylla,2.171048296
+T,unlogged,T2,31.9,Eusideroxylon_zwageri,0.999456469
+T,unlogged,T3,36,Glochidion_rubrum,0.981552252
+T,unlogged,T4,40.6,Nephelium_ramboutan-ake,1.793067053
+T,unlogged,T5,32.5,Shorea_faguetiana,0.794730432
+T,unlogged,T6,67.3,Terminalia_subspathulata,5.045912947
+T,unlogged,T7,36.2,Diospyros_macrophylla,1.199788443
+T,unlogged,T8,111,Shorea_johorensis,15.48457083
+T,unlogged,T9,40.2,Diospyros_macrophylla,1.552580895
+T,unlogged,T10,53,Microcos_crassifolia,2.211261411
+T,unlogged,T11,143.3,Koompassia_excelsa,35.50428569
+T,unlogged,T12,51,Eusideroxylon_zwageri,3.161621029
+T,unlogged,T13,36.1,Dillenia_excelsa,1.083598298
+T,unlogged,T14,72,Shorea_fallax,5.524445736
+T,unlogged,T15,33.2,Scaphium_macropodum,0.710973427
+T,unlogged,T16,55,Eusideroxylon_zwageri,3.798142472
+T,unlogged,T17,55.9,Eusideroxylon_zwageri,3.950622958
+T,unlogged,T18,43.6,Diospyros_sp.3,1.894412941
+T,unlogged,T19,50,Shorea_johorensis,2.287735275
+T,unlogged,T20,55.5,Shorea_fallax,2.948012883
+T,unlogged,T21,37.3,Nephelium_ramboutan-ake,1.455836937
+T,unlogged,T22,35.1,Shorea_faguetiana,0.9611694
+T,unlogged,T23,43.7,Eusideroxylon_zwageri,2.168818971
+T,unlogged,T24,59.5,Eusideroxylon_zwageri,4.595134694
+T,unlogged,T25,72,Shorea_leprosula,5.524445736
+T,unlogged,T26,33.1,Diospyros_macrophylla,0.961901137
+T,unlogged,T27,33.6,Shorea_faguetiana,0.862909335
+T,unlogged,T28,55.5,Dipterocarpus_applanatus,3.276862088
+T,unlogged,T29,50,Dryobalanops_lanceolata,2.450738235
+T,unlogged,T30,48.8,Eusideroxylon_zwageri,2.839770066
+T,unlogged,T31,56.7,Dipterocarpus_applanatus,3.451254084
+T,unlogged,T32,39,Microcos_crassifolia,1.045110763
+T,unlogged,T33,34.1,Eusideroxylon_zwageri,1.178658321
+T,unlogged,T34,53.8,Pometia_pinnata,3.051498463
+T,unlogged,T35,41.9,Pentace_laxiflora,1.536167737
+T,unlogged,T36,53,Eusideroxylon_zwageri,3.471528514
+T,unlogged,T37,44,Shorea_leprosula,1.674629091
+T,unlogged,T38,43,Shorea_leprosula,1.583008687
+T,unlogged,T39,49.6,Eusideroxylon_zwageri,2.954514977
+T,unlogged,T40,42.2,Nephelium_ramboutan-ake,1.971315932
+T,unlogged,T41,36,Nephelium_ramboutan-ake,1.334025183
+T,unlogged,T42,31,Gonystylus_affinis,0.667929229
+T,unlogged,T43,31.4,Gonystylus_affinis,0.689489863
+T,unlogged,T44,40.1,Planchonia_valida,1.527471211
+T,unlogged,T45,92.1,Shorea_pauciflora,9.949573847
+T,unlogged,T46,113,Shorea_johorensis,16.15117527
+T,unlogged,T47,76,Shorea_faguetiana,6.289375888
+T,unlogged,T48,41.2,Shorea_symingtonii,1.425528455
+T,unlogged,T49,43.1,Eusideroxylon_zwageri,2.096657468
+T,unlogged,T50,34,Shorea_leprosula,0.888512078
+T,unlogged,T51,33.7,Beilschmiedia_micrantha,0.841620349
+T,unlogged,T52,47.2,Eusideroxylon_zwageri,2.618071022
+T,unlogged,T53,40.3,Shorea_fallax,1.350337587
+T,unlogged,T54,51,Eusideroxylon_zwageri,3.161621029
+T,unlogged,T55,113.5,Shorea_johorensis,16.32028652
+T,unlogged,T56,68.8,Eusideroxylon_zwageri,6.522540837
+T,unlogged,T57,65.6,Eusideroxylon_zwageri,5.815964817
+T,unlogged,T58,168.1,Shorea_johorensis,40.92861737
+T,unlogged,T59,47.1,Eusideroxylon_zwageri,2.604557752
+T,unlogged,T60,45.1,Diospyros_macrophylla,2.057789416
+T,unlogged,T61,36.9,Reinwardtiodendron_humile,1.420717089
+T,unlogged,T62,52.6,Diospyros_macrophylla,2.993734633
+T,unlogged,T63,50.9,Eusideroxylon_zwageri,3.146560499
+T,unlogged,T64,168.1,Koompassia_excelsa,51.50082618
+T,unlogged,T65,50.4,Eusideroxylon_zwageri,3.071875629
+T,unlogged,T66,75.1,Eusideroxylon_zwageri,8.04976069
+T,unlogged,T67,81.6,Shorea_fallax,7.455662361
+T,unlogged,T68,74.2,Shorea_johorensis,5.938197002
+T,unlogged,T69,45,Diospyros_macrophylla,2.046655216
+T,unlogged,T70,30,Parashorea_malaanonan,0.621098818
+T,unlogged,T71,47.5,Eusideroxylon_zwageri,2.658852158
