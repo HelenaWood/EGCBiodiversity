@@ -1,4 +1,4 @@
-plot,type,tree,dbh,species,AGB
+plot,type,tree_id,dbh,species,AGB
 A,logged,A1,32.4,Shorea_angustifolia,0.78869347
 A,logged,A2,35,Dipterocarpus_caudiferus,1.060892981
 A,logged,A3,32.5,Shorea_johorensis,0.794730432
